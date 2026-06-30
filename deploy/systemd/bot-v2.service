@@ -1,0 +1,23 @@
+[Unit]
+Description=SPH/SPL Pivot Bot v2 (Zerodha Kite)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=@USER@
+WorkingDirectory=@INSTALL_DIR@
+Environment=BOT_INSTALL_DIR=@INSTALL_DIR@
+ExecStart=@INSTALL_DIR@/run_bot_v2.sh
+Restart=always
+RestartSec=15
+# Bot needs time to warm up historical data on start
+TimeoutStartSec=300
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=bot-v2
+
+[Install]
+WantedBy=multi-user.target

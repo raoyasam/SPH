@@ -1,0 +1,21 @@
+[Unit]
+Description=Bot live dashboard (15s refresh)
+After=network-online.target
+
+[Service]
+Type=simple
+User=@USER@
+WorkingDirectory=@INSTALL_DIR@
+Environment=BOT_INSTALL_DIR=@INSTALL_DIR@
+Environment=BOT_DASHBOARD_CANVAS=0
+Environment=BOT_DASHBOARD_PUBLIC=@DASHBOARD_PUBLIC@
+Environment=BOT_DASHBOARD_BIND=@DASHBOARD_BIND@
+ExecStart=@INSTALL_DIR@/bot_env/bin/python3 @INSTALL_DIR@/bot_dashboard_server.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=bot-dashboard
+
+[Install]
+WantedBy=multi-user.target

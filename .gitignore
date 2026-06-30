@@ -1,0 +1,30 @@
+# Secrets — never commit
+bot_secrets.env
+telegram_secrets.env
+kite_secrets.env
+access_token.txt
+.env
+!.env.example
+!*.env.example
+
+# Runtime / private data
+*.log
+bot_v2_state.json
+bot_state.json
+Completed_Trades*.xlsx
+.kite_login.lock
+
+# Python
+bot_env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+.cursor/
+.idea/
+*.swp

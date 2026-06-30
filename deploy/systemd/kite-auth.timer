@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily Kite session refresh before market open (IST)
+
+[Timer]
+# 8:00 AM IST Mon–Fri (VM timezone must be Asia/Kolkata)
+OnCalendar=Mon-Fri *-*-* 08:00:00
+Persistent=true
+RandomizedDelaySec=0
+
+[Install]
+WantedBy=timers.target

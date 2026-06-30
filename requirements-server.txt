@@ -1,0 +1,6 @@
+kiteconnect
+pandas
+openpyxl
+phonenumbers
+pyotp
+requests

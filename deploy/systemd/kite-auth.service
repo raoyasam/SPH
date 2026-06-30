@@ -1,0 +1,14 @@
+[Unit]
+Description=Daily Zerodha Kite auto-login (TOTP)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=@USER@
+WorkingDirectory=@INSTALL_DIR@
+Environment=BOT_INSTALL_DIR=@INSTALL_DIR@
+ExecStart=@INSTALL_DIR@/deploy/refresh_kite_session.sh
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=kite-auth
