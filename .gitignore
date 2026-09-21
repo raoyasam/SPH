@@ -13,6 +13,7 @@ bot_v2_state.json
 bot_state.json
 Completed_Trades*.xlsx
 .kite_login.lock
+artifacts/jev_monthly_cache.json
 
 # Python
 bot_env/

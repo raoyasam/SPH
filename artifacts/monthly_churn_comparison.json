@@ -1,0 +1,50 @@
+{
+  "period": "2021-01-01 to 2026-09-01",
+  "initial_capital": 100000.0,
+  "jev_api_calls_for_cache": 301,
+  "note": "Jev scores are retrospective (today's model judging past months), not true historical decisions.",
+  "buy_and_hold": {
+    "label": "Buy & Hold (equal weight universe)",
+    "final_value": 359423.17,
+    "total_return_pct": 259.42,
+    "cagr_pct": 25.34
+  },
+  "nifty50_total_return_pct": 71.78,
+  "nifty500_total_return_pct": 100.57,
+  "baseline": {
+    "label": "Baseline",
+    "final_value": 523220.19,
+    "total_return_pct": 423.22,
+    "cagr_pct": 33.93,
+    "months_traded": 61,
+    "months_cash": 7,
+    "avg_names_when_invested": 4.93
+  },
+  "jev_0.45": {
+    "label": "Jev>=0.45",
+    "final_value": 315016.55,
+    "total_return_pct": 215.02,
+    "cagr_pct": 22.45,
+    "months_traded": 59,
+    "months_cash": 9,
+    "avg_names_when_invested": 4.12
+  },
+  "jev_0.5": {
+    "label": "Jev>=0.5",
+    "final_value": 201880.43,
+    "total_return_pct": 101.88,
+    "cagr_pct": 13.2,
+    "months_traded": 50,
+    "months_cash": 18,
+    "avg_names_when_invested": 3.02
+  },
+  "jev_0.55": {
+    "label": "Jev>=0.55",
+    "final_value": 93621.25,
+    "total_return_pct": -6.38,
+    "cagr_pct": -1.16,
+    "months_traded": 15,
+    "months_cash": 53,
+    "avg_names_when_invested": 1.2
+  }
+}
