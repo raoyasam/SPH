@@ -1,0 +1,77 @@
+{
+  "period": "2021-01-01 to 2026-09-01",
+  "initial_capital": 100000.0,
+  "note": "Daily Open/Close from Yahoo proxies ~open/~close, not exact 9:30/15:15. Round-trip costs dominate same-day edges.",
+  "monthly_hold": {
+    "label": "Monthly hold (baseline)",
+    "final_value": 523220.19,
+    "total_return_pct": 423.22,
+    "cagr_pct": 33.93
+  },
+  "daily_open_close_cost_0.25pct": {
+    "label": "Daily Open\u2192Close",
+    "final_value": 34.42,
+    "total_return_pct": -99.97,
+    "cagr_pct": -75.53,
+    "trade_days": 1238,
+    "cash_days": 165,
+    "win_rate_pct": 29.16,
+    "avg_day_return_pct": -0.6264
+  },
+  "daily_open_close_with_stop_cost_0.25pct": {
+    "label": "Daily Open\u2192Close + stop",
+    "final_value": 28.62,
+    "total_return_pct": -99.97,
+    "cagr_pct": -76.31,
+    "trade_days": 1238,
+    "cash_days": 165,
+    "win_rate_pct": 29.16,
+    "avg_day_return_pct": -0.6407
+  },
+  "daily_cost_sensitivity": [
+    {
+      "cost_each_side_pct": 0.0,
+      "final_value": 16770.7,
+      "total_return_pct": -83.23,
+      "cagr_pct": -27.04,
+      "win_rate_pct": 44.18,
+      "avg_day_return_pct": -0.1276,
+      "trade_days": 1238
+    },
+    {
+      "cost_each_side_pct": 0.05,
+      "final_value": 4900.64,
+      "total_return_pct": -95.1,
+      "cagr_pct": -41.28,
+      "win_rate_pct": 40.95,
+      "avg_day_return_pct": -0.2275,
+      "trade_days": 1238
+    },
+    {
+      "cost_each_side_pct": 0.1,
+      "final_value": 1420.88,
+      "total_return_pct": -98.58,
+      "cagr_pct": -52.81,
+      "win_rate_pct": 37.32,
+      "avg_day_return_pct": -0.3273,
+      "trade_days": 1238
+    },
+    {
+      "cost_each_side_pct": 0.25,
+      "final_value": 34.42,
+      "total_return_pct": -99.97,
+      "cagr_pct": -75.53,
+      "win_rate_pct": 29.16,
+      "avg_day_return_pct": -0.6264,
+      "trade_days": 1238
+    }
+  ],
+  "buy_and_hold": {
+    "label": "Buy & Hold (equal weight)",
+    "final_value": 359423.17,
+    "total_return_pct": 259.42,
+    "cagr_pct": 25.34
+  },
+  "nifty50_total_return_pct": 71.78,
+  "nifty500_total_return_pct": 100.57
+}
