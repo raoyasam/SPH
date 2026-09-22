@@ -1,0 +1,191 @@
+{
+  "period": "2021-01-01 to 2026-09-01",
+  "initial_capital": 100000.0,
+  "rules": {
+    "entry": "Open on Yahoo earnings date (or next session)",
+    "exit": "Close of session 3 or -10% stop first",
+    "costs": 0.0025,
+    "tax_march": 0.2,
+    "position_sizing": "up to equity/5 per new trade from cash"
+  },
+  "results_day_strategy": {
+    "label": "Results day \u2192 3 sessions / -10% SL",
+    "final_value": 66353.38,
+    "total_return_pct": -33.65,
+    "cagr_pct": -6.99,
+    "trades": 481,
+    "win_rate_pct": 43.04,
+    "stop_exits": 28,
+    "time_exits": 453,
+    "earnings_events_listed": 481,
+    "skipped_no_price": 0,
+    "names_with_events": 28
+  },
+  "buy_and_hold": {
+    "label": "Buy & Hold (equities in map)",
+    "final_value": 377563.07,
+    "total_return_pct": 277.56,
+    "cagr_pct": 26.43,
+    "trades": null
+  },
+  "monthly_hold_from_prior_artifact": {
+    "label": "Monthly hold (baseline)",
+    "final_value": 523220.19,
+    "total_return_pct": 423.22,
+    "cagr_pct": 33.93
+  },
+  "nifty50_total_return_pct": 71.78,
+  "nifty500_total_return_pct": 100.57,
+  "sample_trades": [
+    {
+      "name": "HDFC Bank",
+      "entry": "2021-01-18",
+      "exit": "2021-01-20",
+      "entry_px": 734.95,
+      "exit_px": 746.0,
+      "pnl": 199.32,
+      "return_pct": 1.0,
+      "reason": "time"
+    },
+    {
+      "name": "HDFC AMC",
+      "entry": "2021-01-20",
+      "exit": "2021-01-22",
+      "entry_px": 1604.0,
+      "exit_px": 1550.5,
+      "pnl": -765.15,
+      "return_pct": -3.82,
+      "reason": "time"
+    },
+    {
+      "name": "Bandhan Bank",
+      "entry": "2021-01-21",
+      "exit": "2021-01-22",
+      "entry_px": 364.95,
+      "exit_px": 328.455,
+      "pnl": -2078.63,
+      "return_pct": -10.45,
+      "reason": "stop"
+    },
+    {
+      "name": "Aavas",
+      "entry": "2021-01-21",
+      "exit": "2021-01-25",
+      "entry_px": 1930.0,
+      "exit_px": 1777.2,
+      "pnl": -1666.36,
+      "return_pct": -8.38,
+      "reason": "time"
+    },
+    {
+      "name": "HDFC Life",
+      "entry": "2021-01-22",
+      "exit": "2021-01-27",
+      "entry_px": 702.7,
+      "exit_px": 682.85,
+      "pnl": -639.23,
+      "return_pct": -3.31,
+      "reason": "time"
+    },
+    {
+      "name": "Kotak Bank",
+      "entry": "2021-01-25",
+      "exit": "2021-01-28",
+      "entry_px": 369.0,
+      "exit_px": 344.57,
+      "pnl": -1346.93,
+      "return_pct": -7.09,
+      "reason": "time"
+    },
+    {
+      "name": "L&T",
+      "entry": "2021-01-25",
+      "exit": "2021-01-28",
+      "entry_px": 1370.0,
+      "exit_px": 1345.35,
+      "pnl": -435.17,
+      "return_pct": -2.29,
+      "reason": "time"
+    },
+    {
+      "name": "Poly Medicure",
+      "entry": "2021-01-27",
+      "exit": "2021-01-29",
+      "entry_px": 522.85,
+      "exit_px": 506.55,
+      "pnl": -676.97,
+      "return_pct": -3.6,
+      "reason": "time"
+    },
+    {
+      "name": "Hindustan Unilever",
+      "entry": "2021-01-27",
+      "exit": "2021-01-29",
+      "entry_px": 2425.0,
+      "exit_px": 2263.8999,
+      "pnl": -1336.43,
+      "return_pct": -7.11,
+      "reason": "time"
+    },
+    {
+      "name": "AU Small Finance Bank",
+      "entry": "2021-01-28",
+      "exit": "2021-02-01",
+      "entry_px": 433.0,
+      "exit_px": 470.775,
+      "pnl": 1500.25,
+      "return_pct": 8.18,
+      "reason": "time"
+    },
+    {
+      "name": "IDFC First Bank",
+      "entry": "2021-02-01",
+      "exit": "2021-02-03",
+      "entry_px": 45.8,
+      "exit_px": 47.65,
+      "pnl": 652.95,
+      "return_pct": 3.52,
+      "reason": "time"
+    },
+    {
+      "name": "Minda Corp",
+      "entry": "2021-02-03",
+      "exit": "2021-02-05",
+      "entry_px": 97.85,
+      "exit_px": 96.25,
+      "pnl": -397.24,
+      "return_pct": -2.13,
+      "reason": "time"
+    },
+    {
+      "name": "Bharti Airtel",
+      "entry": "2021-02-03",
+      "exit": "2021-02-05",
+      "entry_px": 598.1694,
+      "exit_px": 570.3909,
+      "pnl": -956.51,
+      "return_pct": -5.12,
+      "reason": "time"
+    },
+    {
+      "name": "Uno Minda",
+      "entry": "2021-02-04",
+      "exit": "2021-02-08",
+      "entry_px": 241.85,
+      "exit_px": 296.425,
+      "pnl": 4097.47,
+      "return_pct": 21.95,
+      "reason": "time"
+    },
+    {
+      "name": "Max Health",
+      "entry": "2021-02-08",
+      "exit": "2021-02-10",
+      "entry_px": 183.5,
+      "exit_px": 179.95,
+      "pnl": -466.2,
+      "return_pct": -2.42,
+      "reason": "time"
+    }
+  ]
+}

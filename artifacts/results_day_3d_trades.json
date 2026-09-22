@@ -1,0 +1,4812 @@
+[
+  {
+    "name": "HDFC Bank",
+    "entry": "2021-01-18",
+    "exit": "2021-01-20",
+    "entry_px": 734.95,
+    "exit_px": 746.0,
+    "pnl": 199.32,
+    "return_pct": 1.0,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2021-01-20",
+    "exit": "2021-01-22",
+    "entry_px": 1604.0,
+    "exit_px": 1550.5,
+    "pnl": -765.15,
+    "return_pct": -3.82,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2021-01-21",
+    "exit": "2021-01-22",
+    "entry_px": 364.95,
+    "exit_px": 328.455,
+    "pnl": -2078.63,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2021-01-21",
+    "exit": "2021-01-25",
+    "entry_px": 1930.0,
+    "exit_px": 1777.2,
+    "pnl": -1666.36,
+    "return_pct": -8.38,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2021-01-22",
+    "exit": "2021-01-27",
+    "entry_px": 702.7,
+    "exit_px": 682.85,
+    "pnl": -639.23,
+    "return_pct": -3.31,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2021-01-25",
+    "exit": "2021-01-28",
+    "entry_px": 369.0,
+    "exit_px": 344.57,
+    "pnl": -1346.93,
+    "return_pct": -7.09,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2021-01-25",
+    "exit": "2021-01-28",
+    "entry_px": 1370.0,
+    "exit_px": 1345.35,
+    "pnl": -435.17,
+    "return_pct": -2.29,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2021-01-27",
+    "exit": "2021-01-29",
+    "entry_px": 522.85,
+    "exit_px": 506.55,
+    "pnl": -676.97,
+    "return_pct": -3.6,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2021-01-27",
+    "exit": "2021-01-29",
+    "entry_px": 2425.0,
+    "exit_px": 2263.8999,
+    "pnl": -1336.43,
+    "return_pct": -7.11,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2021-01-28",
+    "exit": "2021-02-01",
+    "entry_px": 433.0,
+    "exit_px": 470.775,
+    "pnl": 1500.25,
+    "return_pct": 8.18,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2021-02-01",
+    "exit": "2021-02-03",
+    "entry_px": 45.8,
+    "exit_px": 47.65,
+    "pnl": 652.95,
+    "return_pct": 3.52,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2021-02-03",
+    "exit": "2021-02-05",
+    "entry_px": 97.85,
+    "exit_px": 96.25,
+    "pnl": -397.24,
+    "return_pct": -2.13,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2021-02-03",
+    "exit": "2021-02-05",
+    "entry_px": 598.1694,
+    "exit_px": 570.3909,
+    "pnl": -956.51,
+    "return_pct": -5.12,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2021-02-04",
+    "exit": "2021-02-08",
+    "entry_px": 241.85,
+    "exit_px": 296.425,
+    "pnl": 4097.47,
+    "return_pct": 21.95,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2021-02-08",
+    "exit": "2021-02-10",
+    "entry_px": 183.5,
+    "exit_px": 179.95,
+    "pnl": -466.2,
+    "return_pct": -2.42,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2021-02-16",
+    "exit": "2021-02-18",
+    "entry_px": 85.1556,
+    "exit_px": 84.32,
+    "pnl": -282.4,
+    "return_pct": -1.48,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2021-04-19",
+    "exit": "2021-04-22",
+    "entry_px": 695.0,
+    "exit_px": 711.25,
+    "pnl": 348.62,
+    "return_pct": 1.83,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2021-04-26",
+    "exit": "2021-04-28",
+    "entry_px": 693.0,
+    "exit_px": 672.6,
+    "pnl": -656.55,
+    "return_pct": -3.43,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2021-04-27",
+    "exit": "2021-04-29",
+    "entry_px": 1419.5,
+    "exit_px": 1396.1,
+    "pnl": -407.86,
+    "return_pct": -2.14,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2021-04-29",
+    "exit": "2021-04-30",
+    "entry_px": 572.5,
+    "exit_px": 515.25,
+    "pnl": -1978.85,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2021-04-29",
+    "exit": "2021-05-03",
+    "entry_px": 2305.8,
+    "exit_px": 2284.45,
+    "pnl": -269.04,
+    "return_pct": -1.42,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2021-04-29",
+    "exit": "2021-05-03",
+    "entry_px": 2433.0,
+    "exit_px": 2408.0,
+    "pnl": -288.19,
+    "return_pct": -1.52,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2021-05-03",
+    "exit": "2021-05-05",
+    "entry_px": 86.2222,
+    "exit_px": 88.8844,
+    "pnl": 474.18,
+    "return_pct": 2.57,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2021-05-03",
+    "exit": "2021-05-05",
+    "entry_px": 347.0,
+    "exit_px": 354.15,
+    "pnl": 285.82,
+    "return_pct": 1.55,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2021-05-10",
+    "exit": "2021-05-12",
+    "entry_px": 285.0,
+    "exit_px": 288.15,
+    "pnl": 111.56,
+    "return_pct": 0.6,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2021-05-10",
+    "exit": "2021-05-12",
+    "entry_px": 56.0,
+    "exit_px": 55.2,
+    "pnl": -356.93,
+    "return_pct": -1.92,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2021-05-14",
+    "exit": "2021-05-18",
+    "entry_px": 1394.0,
+    "exit_px": 1417.3,
+    "pnl": 215.68,
+    "return_pct": 1.16,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2021-05-17",
+    "exit": "2021-05-19",
+    "entry_px": 553.5569,
+    "exit_px": 518.4658,
+    "pnl": -1259.6,
+    "return_pct": -6.81,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2021-05-18",
+    "exit": "2021-05-20",
+    "entry_px": 108.5,
+    "exit_px": 112.8,
+    "pnl": 633.22,
+    "return_pct": 3.44,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2021-05-24",
+    "exit": "2021-05-24",
+    "entry_px": 1148.3,
+    "exit_px": 1033.47,
+    "pnl": -1928.02,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2021-05-25",
+    "exit": "2021-05-27",
+    "entry_px": 517.8,
+    "exit_px": 483.88,
+    "pnl": -1267.73,
+    "return_pct": -7.02,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2021-05-28",
+    "exit": "2021-06-01",
+    "entry_px": 230.95,
+    "exit_px": 230.35,
+    "pnl": -134.99,
+    "return_pct": -0.76,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2021-06-14",
+    "exit": "2021-06-16",
+    "entry_px": 310.0,
+    "exit_px": 327.4,
+    "pnl": 904.45,
+    "return_pct": 5.09,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2021-07-16",
+    "exit": "2021-07-20",
+    "entry_px": 1564.0,
+    "exit_px": 1438.825,
+    "pnl": -1520.42,
+    "return_pct": -8.46,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2021-07-19",
+    "exit": "2021-07-22",
+    "entry_px": 743.5,
+    "exit_px": 724.35,
+    "pnl": -545.1,
+    "return_pct": -3.06,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2021-07-19",
+    "exit": "2021-07-22",
+    "entry_px": 696.5,
+    "exit_px": 662.1,
+    "pnl": -963.7,
+    "return_pct": -5.41,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2021-07-22",
+    "exit": "2021-07-26",
+    "entry_px": 2450.0,
+    "exit_px": 2348.7,
+    "pnl": -800.88,
+    "return_pct": -4.61,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2021-07-26",
+    "exit": "2021-07-28",
+    "entry_px": 342.32,
+    "exit_px": 330.57,
+    "pnl": -673.32,
+    "return_pct": -3.91,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2021-07-26",
+    "exit": "2021-07-28",
+    "entry_px": 1611.75,
+    "exit_px": 1594.2,
+    "pnl": -272.24,
+    "return_pct": -1.58,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2021-07-29",
+    "exit": "2021-08-02",
+    "entry_px": 2615.0,
+    "exit_px": 2469.7,
+    "pnl": -1025.4,
+    "return_pct": -6.03,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2021-07-29",
+    "exit": "2021-08-02",
+    "entry_px": 1018.65,
+    "exit_px": 969.5,
+    "pnl": -901.61,
+    "return_pct": -5.3,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2021-07-30",
+    "exit": "2021-08-03",
+    "entry_px": 293.0,
+    "exit_px": 300.6,
+    "pnl": 348.64,
+    "return_pct": 2.08,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2021-08-02",
+    "exit": "2021-08-04",
+    "entry_px": 48.65,
+    "exit_px": 49.75,
+    "pnl": 292.16,
+    "return_pct": 1.75,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2021-08-02",
+    "exit": "2021-08-04",
+    "entry_px": 102.6667,
+    "exit_px": 105.7,
+    "pnl": 407.34,
+    "return_pct": 2.44,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2021-08-03",
+    "exit": "2021-08-05",
+    "entry_px": 557.5323,
+    "exit_px": 587.6666,
+    "pnl": 827.77,
+    "return_pct": 4.88,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2021-08-06",
+    "exit": "2021-08-10",
+    "entry_px": 619.975,
+    "exit_px": 652.0,
+    "pnl": 788.88,
+    "return_pct": 4.64,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2021-08-10",
+    "exit": "2021-08-10",
+    "entry_px": 653.7,
+    "exit_px": 588.33,
+    "pnl": -1792.93,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2021-08-10",
+    "exit": "2021-08-12",
+    "entry_px": 289.5,
+    "exit_px": 329.55,
+    "pnl": 2276.15,
+    "return_pct": 13.27,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2021-08-12",
+    "exit": "2021-08-16",
+    "entry_px": 131.05,
+    "exit_px": 129.25,
+    "pnl": -321.98,
+    "return_pct": -1.87,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2021-08-16",
+    "exit": "2021-08-18",
+    "entry_px": 350.75,
+    "exit_px": 370.15,
+    "pnl": 860.21,
+    "return_pct": 5.0,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2021-10-18",
+    "exit": "2021-10-20",
+    "entry_px": 852.5,
+    "exit_px": 836.925,
+    "pnl": -402.33,
+    "return_pct": -2.32,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2021-10-19",
+    "exit": "2021-10-21",
+    "entry_px": 2669.8999,
+    "exit_px": 2445.75,
+    "pnl": -1533.38,
+    "return_pct": -8.85,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2021-10-22",
+    "exit": "2021-10-26",
+    "entry_px": 700.0,
+    "exit_px": 690.05,
+    "pnl": -324.86,
+    "return_pct": -1.91,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2021-10-25",
+    "exit": "2021-10-27",
+    "entry_px": 1392.575,
+    "exit_px": 1350.625,
+    "pnl": -590.45,
+    "return_pct": -3.5,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2021-10-26",
+    "exit": "2021-10-28",
+    "entry_px": 430.9,
+    "exit_px": 419.7,
+    "pnl": -519.7,
+    "return_pct": -3.09,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2021-10-27",
+    "exit": "2021-10-29",
+    "entry_px": 1801.0,
+    "exit_px": 1766.65,
+    "pnl": -403.59,
+    "return_pct": -2.4,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2021-10-28",
+    "exit": "2021-10-29",
+    "entry_px": 635.5,
+    "exit_px": 571.95,
+    "pnl": -1745.53,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2021-10-28",
+    "exit": "2021-11-01",
+    "entry_px": 2821.25,
+    "exit_px": 2795.1001,
+    "pnl": -237.48,
+    "return_pct": -1.42,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2021-10-29",
+    "exit": "2021-11-02",
+    "entry_px": 301.6,
+    "exit_px": 311.0,
+    "pnl": 422.16,
+    "return_pct": 2.6,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2021-10-29",
+    "exit": "2021-11-02",
+    "entry_px": 110.0,
+    "exit_px": 122.4067,
+    "pnl": 1739.92,
+    "return_pct": 10.72,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2021-11-01",
+    "exit": "2021-11-03",
+    "entry_px": 50.4,
+    "exit_px": 50.55,
+    "pnl": -33.38,
+    "return_pct": -0.2,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2021-11-01",
+    "exit": "2021-11-03",
+    "entry_px": 926.0,
+    "exit_px": 912.05,
+    "pnl": -328.22,
+    "return_pct": -2.0,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2021-11-02",
+    "exit": "2021-11-04",
+    "entry_px": 168.1,
+    "exit_px": 175.35,
+    "pnl": 633.14,
+    "return_pct": 3.79,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2021-11-02",
+    "exit": "2021-11-04",
+    "entry_px": 712.5,
+    "exit_px": 701.1,
+    "pnl": -349.19,
+    "return_pct": -2.09,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2021-11-11",
+    "exit": "2021-11-15",
+    "entry_px": 432.5,
+    "exit_px": 474.7,
+    "pnl": 1531.28,
+    "return_pct": 9.21,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2021-11-12",
+    "exit": "2021-11-16",
+    "entry_px": 339.9,
+    "exit_px": 364.95,
+    "pnl": 1154.4,
+    "return_pct": 6.83,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2022-01-17",
+    "exit": "2022-01-19",
+    "entry_px": 765.0,
+    "exit_px": 759.225,
+    "pnl": -214.65,
+    "return_pct": -1.25,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2022-01-20",
+    "exit": "2022-01-24",
+    "entry_px": 2325.0,
+    "exit_px": 2284.6001,
+    "pnl": -381.54,
+    "return_pct": -2.23,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2022-01-21",
+    "exit": "2022-01-25",
+    "entry_px": 299.1,
+    "exit_px": 324.15,
+    "pnl": 1340.7,
+    "return_pct": 7.83,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2022-01-21",
+    "exit": "2022-01-25",
+    "entry_px": 645.0,
+    "exit_px": 630.8,
+    "pnl": -460.36,
+    "return_pct": -2.69,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2022-01-24",
+    "exit": "2022-01-27",
+    "entry_px": 1189.9,
+    "exit_px": 1070.91,
+    "pnl": -1780.21,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Home First",
+    "entry": "2022-01-27",
+    "exit": "2022-01-31",
+    "entry_px": 741.55,
+    "exit_px": 751.8,
+    "pnl": 147.74,
+    "return_pct": 0.88,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2022-01-28",
+    "exit": "2022-02-01",
+    "entry_px": 379.0,
+    "exit_px": 376.46,
+    "pnl": -198.65,
+    "return_pct": -1.17,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2022-01-28",
+    "exit": "2022-02-01",
+    "entry_px": 1916.1,
+    "exit_px": 1990.5,
+    "pnl": 573.03,
+    "return_pct": 3.36,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2022-01-28",
+    "exit": "2022-02-01",
+    "entry_px": 644.85,
+    "exit_px": 673.5,
+    "pnl": 667.95,
+    "return_pct": 3.92,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2022-01-31",
+    "exit": "2022-02-02",
+    "entry_px": 48.0,
+    "exit_px": 49.3,
+    "pnl": 369.76,
+    "return_pct": 2.2,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2022-02-03",
+    "exit": "2022-02-07",
+    "entry_px": 3208.95,
+    "exit_px": 2983.6499,
+    "pnl": -1285.81,
+    "return_pct": -7.49,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2022-02-03",
+    "exit": "2022-02-07",
+    "entry_px": 124.2667,
+    "exit_px": 125.5267,
+    "pnl": 87.52,
+    "return_pct": 0.51,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2022-02-07",
+    "exit": "2022-02-09",
+    "entry_px": 530.0,
+    "exit_px": 529.0,
+    "pnl": -116.38,
+    "return_pct": -0.69,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2022-02-08",
+    "exit": "2022-02-10",
+    "entry_px": 711.2,
+    "exit_px": 724.05,
+    "pnl": 218.42,
+    "return_pct": 1.3,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2022-02-10",
+    "exit": "2022-02-14",
+    "entry_px": 536.0,
+    "exit_px": 482.4,
+    "pnl": -1772.07,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2022-02-14",
+    "exit": "2022-02-16",
+    "entry_px": 368.45,
+    "exit_px": 380.15,
+    "pnl": 441.71,
+    "return_pct": 2.66,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2022-04-18",
+    "exit": "2022-04-20",
+    "entry_px": 709.425,
+    "exit_px": 677.15,
+    "pnl": -838.98,
+    "return_pct": -5.03,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2022-04-26",
+    "exit": "2022-04-28",
+    "entry_px": 541.1,
+    "exit_px": 571.4,
+    "pnl": 838.19,
+    "return_pct": 5.07,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2022-04-26",
+    "exit": "2022-04-28",
+    "entry_px": 692.225,
+    "exit_px": 704.2,
+    "pnl": 201.92,
+    "return_pct": 1.22,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2022-04-27",
+    "exit": "2022-04-29",
+    "entry_px": 2147.8,
+    "exit_px": 2234.8501,
+    "pnl": 582.89,
+    "return_pct": 3.53,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2022-04-27",
+    "exit": "2022-04-29",
+    "entry_px": 1030.0,
+    "exit_px": 1020.875,
+    "pnl": -227.8,
+    "return_pct": -1.38,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2022-04-28",
+    "exit": "2022-05-02",
+    "entry_px": 140.2667,
+    "exit_px": 147.3133,
+    "pnl": 758.11,
+    "return_pct": 4.5,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2022-05-02",
+    "exit": "2022-05-05",
+    "entry_px": 39.7,
+    "exit_px": 39.2,
+    "pnl": -297.15,
+    "return_pct": -1.75,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2022-05-04",
+    "exit": "2022-05-06",
+    "entry_px": 750.5,
+    "exit_px": 781.1,
+    "pnl": 598.95,
+    "return_pct": 3.56,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2022-05-04",
+    "exit": "2022-05-06",
+    "entry_px": 353.6,
+    "exit_px": 355.06,
+    "pnl": -14.91,
+    "return_pct": -0.09,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2022-05-05",
+    "exit": "2022-05-09",
+    "entry_px": 2299.75,
+    "exit_px": 2200.3501,
+    "pnl": -821.58,
+    "return_pct": -4.8,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2022-05-05",
+    "exit": "2022-05-09",
+    "entry_px": 486.99,
+    "exit_px": 472.24,
+    "pnl": -601.3,
+    "return_pct": -3.51,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2022-05-12",
+    "exit": "2022-05-16",
+    "entry_px": 1550.0,
+    "exit_px": 1542.9,
+    "pnl": -159.78,
+    "return_pct": -0.96,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2022-05-13",
+    "exit": "2022-05-17",
+    "entry_px": 309.05,
+    "exit_px": 341.55,
+    "pnl": 1662.66,
+    "return_pct": 9.96,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2022-05-17",
+    "exit": "2022-05-19",
+    "entry_px": 196.4,
+    "exit_px": 198.8,
+    "pnl": 122.01,
+    "return_pct": 0.72,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2022-05-17",
+    "exit": "2022-05-19",
+    "entry_px": 695.0,
+    "exit_px": 674.25,
+    "pnl": -590.91,
+    "return_pct": -3.47,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2022-05-24",
+    "exit": "2022-05-26",
+    "entry_px": 717.85,
+    "exit_px": 670.25,
+    "pnl": -1201.9,
+    "return_pct": -7.1,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2022-05-24",
+    "exit": "2022-05-26",
+    "entry_px": 439.4,
+    "exit_px": 446.225,
+    "pnl": 177.16,
+    "return_pct": 1.05,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2022-05-25",
+    "exit": "2022-05-27",
+    "entry_px": 366.85,
+    "exit_px": 374.65,
+    "pnl": 272.76,
+    "return_pct": 1.62,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2022-07-18",
+    "exit": "2022-07-20",
+    "entry_px": 674.0,
+    "exit_px": 682.525,
+    "pnl": 127.42,
+    "return_pct": 0.76,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2022-07-19",
+    "exit": "2022-07-21",
+    "entry_px": 541.0,
+    "exit_px": 529.1,
+    "pnl": -450.95,
+    "return_pct": -2.69,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2022-07-19",
+    "exit": "2022-07-21",
+    "entry_px": 2549.95,
+    "exit_px": 2607.45,
+    "pnl": 292.63,
+    "return_pct": 1.74,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2022-07-20",
+    "exit": "2022-07-22",
+    "entry_px": 578.0,
+    "exit_px": 582.35,
+    "pnl": 41.83,
+    "return_pct": 0.25,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2022-07-22",
+    "exit": "2022-07-26",
+    "entry_px": 285.7,
+    "exit_px": 270.7,
+    "pnl": -960.77,
+    "return_pct": -5.72,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2022-07-22",
+    "exit": "2022-07-26",
+    "entry_px": 969.0,
+    "exit_px": 931.15,
+    "pnl": -736.26,
+    "return_pct": -4.39,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2022-07-25",
+    "exit": "2022-07-27",
+    "entry_px": 363.2,
+    "exit_px": 350.82,
+    "pnl": -641.86,
+    "return_pct": -3.89,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2022-07-26",
+    "exit": "2022-07-28",
+    "entry_px": 1780.75,
+    "exit_px": 1801.25,
+    "pnl": 105.57,
+    "return_pct": 0.65,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2022-07-27",
+    "exit": "2022-07-29",
+    "entry_px": 802.9,
+    "exit_px": 827.7,
+    "pnl": 420.59,
+    "return_pct": 2.57,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2022-07-28",
+    "exit": "2022-08-01",
+    "entry_px": 2314.8,
+    "exit_px": 2395.7,
+    "pnl": 491.7,
+    "return_pct": 2.98,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2022-07-29",
+    "exit": "2022-08-02",
+    "entry_px": 760.0,
+    "exit_px": 725.8,
+    "pnl": -822.01,
+    "return_pct": -4.98,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2022-08-01",
+    "exit": "2022-08-03",
+    "entry_px": 39.0,
+    "exit_px": 43.15,
+    "pnl": 1644.06,
+    "return_pct": 10.09,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2022-08-01",
+    "exit": "2022-08-03",
+    "entry_px": 178.36,
+    "exit_px": 188.52,
+    "pnl": 842.28,
+    "return_pct": 5.17,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2022-08-04",
+    "exit": "2022-08-08",
+    "entry_px": 768.0,
+    "exit_px": 730.45,
+    "pnl": -904.17,
+    "return_pct": -5.36,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2022-08-05",
+    "exit": "2022-08-10",
+    "entry_px": 492.0,
+    "exit_px": 461.78,
+    "pnl": -1101.94,
+    "return_pct": -6.61,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2022-08-05",
+    "exit": "2022-08-10",
+    "entry_px": 231.25,
+    "exit_px": 237.75,
+    "pnl": 382.94,
+    "return_pct": 2.3,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2022-08-08",
+    "exit": "2022-08-11",
+    "entry_px": 524.15,
+    "exit_px": 563.7,
+    "pnl": 1165.17,
+    "return_pct": 7.01,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2022-08-08",
+    "exit": "2022-08-11",
+    "entry_px": 707.95,
+    "exit_px": 709.8,
+    "pnl": -39.79,
+    "return_pct": -0.24,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2022-08-10",
+    "exit": "2022-08-12",
+    "entry_px": 385.25,
+    "exit_px": 361.9,
+    "pnl": -1086.07,
+    "return_pct": -6.53,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2022-10-17",
+    "exit": "2022-10-19",
+    "entry_px": 717.5,
+    "exit_px": 729.325,
+    "pnl": 188.62,
+    "return_pct": 1.14,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2022-10-19",
+    "exit": "2022-10-21",
+    "entry_px": 834.3,
+    "exit_px": 750.87,
+    "pnl": -1732.13,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2022-10-19",
+    "exit": "2022-10-21",
+    "entry_px": 628.0,
+    "exit_px": 579.35,
+    "pnl": -1360.5,
+    "return_pct": -8.21,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2022-10-19",
+    "exit": "2022-10-21",
+    "entry_px": 971.95,
+    "exit_px": 1034.775,
+    "pnl": 983.33,
+    "return_pct": 5.93,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2022-10-20",
+    "exit": "2022-10-24",
+    "entry_px": 2035.5,
+    "exit_px": 2010.95,
+    "pnl": -278.61,
+    "return_pct": -1.7,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2022-10-21",
+    "exit": "2022-10-25",
+    "entry_px": 539.9,
+    "exit_px": 533.45,
+    "pnl": -271.33,
+    "return_pct": -1.69,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2022-10-21",
+    "exit": "2022-10-25",
+    "entry_px": 2606.0,
+    "exit_px": 2505.3999,
+    "pnl": -697.64,
+    "return_pct": -4.34,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2022-10-24",
+    "exit": "2022-10-27",
+    "entry_px": 57.3,
+    "exit_px": 56.8,
+    "pnl": -219.53,
+    "return_pct": -1.37,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2022-10-24",
+    "exit": "2022-10-27",
+    "entry_px": 380.5,
+    "exit_px": 373.0,
+    "pnl": -394.98,
+    "return_pct": -2.46,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2022-10-28",
+    "exit": "2022-10-31",
+    "entry_px": 272.1,
+    "exit_px": 244.89,
+    "pnl": -1649.13,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2022-10-31",
+    "exit": "2022-11-02",
+    "entry_px": 823.0,
+    "exit_px": 809.85,
+    "pnl": -322.83,
+    "return_pct": -2.09,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2022-10-31",
+    "exit": "2022-11-02",
+    "entry_px": 1986.0,
+    "exit_px": 2013.3,
+    "pnl": 134.18,
+    "return_pct": 0.87,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2022-11-01",
+    "exit": "2022-11-03",
+    "entry_px": 457.9,
+    "exit_px": 462.05,
+    "pnl": 62.55,
+    "return_pct": 0.4,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2022-11-01",
+    "exit": "2022-11-03",
+    "entry_px": 212.0,
+    "exit_px": 237.8,
+    "pnl": 1804.54,
+    "return_pct": 11.61,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2022-11-04",
+    "exit": "2022-11-09",
+    "entry_px": 497.08,
+    "exit_px": 479.24,
+    "pnl": -642.63,
+    "return_pct": -4.07,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2022-11-04",
+    "exit": "2022-11-09",
+    "entry_px": 906.9,
+    "exit_px": 1031.35,
+    "pnl": 2076.84,
+    "return_pct": 13.15,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2022-11-09",
+    "exit": "2022-11-09",
+    "entry_px": 708.0,
+    "exit_px": 637.2,
+    "pnl": -1685.8,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2022-11-07",
+    "exit": "2022-11-10",
+    "entry_px": 204.0,
+    "exit_px": 207.85,
+    "pnl": 219.45,
+    "return_pct": 1.38,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2022-11-10",
+    "exit": "2022-11-14",
+    "entry_px": 560.5,
+    "exit_px": 543.75,
+    "pnl": -548.07,
+    "return_pct": -3.47,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2023-01-16",
+    "exit": "2023-01-18",
+    "entry_px": 807.5,
+    "exit_px": 818.65,
+    "pnl": 137.06,
+    "return_pct": 0.87,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2023-01-19",
+    "exit": "2023-01-23",
+    "entry_px": 2670.1001,
+    "exit_px": 2596.3999,
+    "pnl": -509.56,
+    "return_pct": -3.25,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2023-01-19",
+    "exit": "2023-01-23",
+    "entry_px": 628.55,
+    "exit_px": 640.9,
+    "pnl": 228.53,
+    "return_pct": 1.46,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2023-01-20",
+    "exit": "2023-01-24",
+    "entry_px": 236.35,
+    "exit_px": 248.35,
+    "pnl": 704.74,
+    "return_pct": 4.55,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2023-01-20",
+    "exit": "2023-01-24",
+    "entry_px": 608.0,
+    "exit_px": 589.55,
+    "pnl": -544.72,
+    "return_pct": -3.52,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2023-01-23",
+    "exit": "2023-01-25",
+    "entry_px": 61.5,
+    "exit_px": 56.9,
+    "pnl": -1245.55,
+    "return_pct": -7.94,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2023-01-23",
+    "exit": "2023-01-25",
+    "entry_px": 358.0,
+    "exit_px": 349.96,
+    "pnl": -428.79,
+    "return_pct": -2.73,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2023-01-24",
+    "exit": "2023-01-27",
+    "entry_px": 753.5,
+    "exit_px": 759.0,
+    "pnl": 35.1,
+    "return_pct": 0.23,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2023-01-24",
+    "exit": "2023-01-27",
+    "entry_px": 1003.55,
+    "exit_px": 957.75,
+    "pnl": -779.75,
+    "return_pct": -5.04,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2023-01-30",
+    "exit": "2023-02-01",
+    "entry_px": 2129.3999,
+    "exit_px": 2145.55,
+    "pnl": 38.78,
+    "return_pct": 0.26,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2023-01-31",
+    "exit": "2023-02-02",
+    "entry_px": 490.0,
+    "exit_px": 516.75,
+    "pnl": 748.59,
+    "return_pct": 4.93,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2023-02-02",
+    "exit": "2023-02-06",
+    "entry_px": 1835.0,
+    "exit_px": 1989.25,
+    "pnl": 1207.12,
+    "return_pct": 7.86,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2023-02-02",
+    "exit": "2023-02-06",
+    "entry_px": 440.0,
+    "exit_px": 440.25,
+    "pnl": -67.97,
+    "return_pct": -0.44,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2023-02-06",
+    "exit": "2023-02-08",
+    "entry_px": 230.69,
+    "exit_px": 262.1,
+    "pnl": 2032.47,
+    "return_pct": 13.05,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2023-02-07",
+    "exit": "2023-02-09",
+    "entry_px": 451.21,
+    "exit_px": 450.62,
+    "pnl": -100.56,
+    "return_pct": -0.63,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2023-02-07",
+    "exit": "2023-02-09",
+    "entry_px": 793.9,
+    "exit_px": 766.65,
+    "pnl": -625.35,
+    "return_pct": -3.91,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2023-02-08",
+    "exit": "2023-02-10",
+    "entry_px": 209.5,
+    "exit_px": 204.4,
+    "pnl": -464.51,
+    "return_pct": -2.92,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2023-02-08",
+    "exit": "2023-02-10",
+    "entry_px": 494.8,
+    "exit_px": 533.0,
+    "pnl": 1141.95,
+    "return_pct": 7.18,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2023-04-17",
+    "exit": "2023-04-19",
+    "entry_px": 860.0,
+    "exit_px": 832.85,
+    "pnl": -581.52,
+    "return_pct": -3.64,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2023-04-25",
+    "exit": "2023-04-27",
+    "entry_px": 667.0,
+    "exit_px": 644.45,
+    "pnl": -612.6,
+    "return_pct": -3.86,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2023-04-25",
+    "exit": "2023-04-27",
+    "entry_px": 892.5,
+    "exit_px": 866.8,
+    "pnl": -533.52,
+    "return_pct": -3.36,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2023-04-26",
+    "exit": "2023-04-28",
+    "entry_px": 529.0,
+    "exit_px": 529.75,
+    "pnl": -56.08,
+    "return_pct": -0.36,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2023-04-27",
+    "exit": "2023-05-02",
+    "entry_px": 2513.95,
+    "exit_px": 2451.7,
+    "pnl": -460.9,
+    "return_pct": -2.96,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2023-04-28",
+    "exit": "2023-05-03",
+    "entry_px": 587.7,
+    "exit_px": 604.9,
+    "pnl": 374.9,
+    "return_pct": 2.41,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2023-05-02",
+    "exit": "2023-05-04",
+    "entry_px": 723.15,
+    "exit_px": 706.55,
+    "pnl": -432.01,
+    "return_pct": -2.78,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2023-05-02",
+    "exit": "2023-05-04",
+    "entry_px": 63.5,
+    "exit_px": 63.8,
+    "pnl": -4.55,
+    "return_pct": -0.03,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2023-05-02",
+    "exit": "2023-05-04",
+    "entry_px": 292.0,
+    "exit_px": 288.52,
+    "pnl": -261.56,
+    "return_pct": -1.69,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2023-05-02",
+    "exit": "2023-05-04",
+    "entry_px": 383.6,
+    "exit_px": 389.52,
+    "pnl": 160.82,
+    "return_pct": 1.04,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2023-05-03",
+    "exit": "2023-05-05",
+    "entry_px": 1404.0,
+    "exit_px": 1438.2,
+    "pnl": 298.16,
+    "return_pct": 1.92,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2023-05-08",
+    "exit": "2023-05-10",
+    "entry_px": 417.4,
+    "exit_px": 417.71,
+    "pnl": -66.17,
+    "return_pct": -0.43,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2023-05-09",
+    "exit": "2023-05-11",
+    "entry_px": 980.05,
+    "exit_px": 977.2,
+    "pnl": -122.87,
+    "return_pct": -0.79,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2023-05-10",
+    "exit": "2023-05-12",
+    "entry_px": 2387.0,
+    "exit_px": 2221.1001,
+    "pnl": -1148.36,
+    "return_pct": -7.41,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2023-05-16",
+    "exit": "2023-05-18",
+    "entry_px": 521.9,
+    "exit_px": 534.2,
+    "pnl": 282.09,
+    "return_pct": 1.85,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2023-05-16",
+    "exit": "2023-05-18",
+    "entry_px": 800.85,
+    "exit_px": 799.35,
+    "pnl": -104.81,
+    "return_pct": -0.69,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2023-05-18",
+    "exit": "2023-05-22",
+    "entry_px": 559.0,
+    "exit_px": 535.35,
+    "pnl": -721.4,
+    "return_pct": -4.71,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2023-05-19",
+    "exit": "2023-05-23",
+    "entry_px": 245.4,
+    "exit_px": 253.8,
+    "pnl": 440.92,
+    "return_pct": 2.91,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2023-07-14",
+    "exit": "2023-07-18",
+    "entry_px": 216.0,
+    "exit_px": 214.3,
+    "pnl": -195.75,
+    "return_pct": -1.28,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2023-07-17",
+    "exit": "2023-07-19",
+    "entry_px": 825.0,
+    "exit_px": 842.55,
+    "pnl": 246.58,
+    "return_pct": 1.62,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2023-07-20",
+    "exit": "2023-07-24",
+    "entry_px": 2669.05,
+    "exit_px": 2580.25,
+    "pnl": -581.89,
+    "return_pct": -3.81,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2023-07-21",
+    "exit": "2023-07-25",
+    "entry_px": 662.5,
+    "exit_px": 651.8,
+    "pnl": -320.0,
+    "return_pct": -2.11,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2023-07-24",
+    "exit": "2023-07-26",
+    "entry_px": 390.0,
+    "exit_px": 379.06,
+    "pnl": -497.09,
+    "return_pct": -3.29,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2023-07-24",
+    "exit": "2023-07-26",
+    "entry_px": 740.0,
+    "exit_px": 732.0,
+    "pnl": -237.94,
+    "return_pct": -1.58,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2023-07-24",
+    "exit": "2023-07-26",
+    "entry_px": 1258.725,
+    "exit_px": 1243.125,
+    "pnl": -261.73,
+    "return_pct": -1.73,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2023-07-25",
+    "exit": "2023-07-27",
+    "entry_px": 2616.0,
+    "exit_px": 2660.2,
+    "pnl": 176.46,
+    "return_pct": 1.18,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2023-07-27",
+    "exit": "2023-07-31",
+    "entry_px": 848.8,
+    "exit_px": 870.1,
+    "pnl": 298.21,
+    "return_pct": 2.0,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2023-07-28",
+    "exit": "2023-08-01",
+    "entry_px": 400.0,
+    "exit_px": 380.2,
+    "pnl": -810.55,
+    "return_pct": -5.42,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2023-07-28",
+    "exit": "2023-08-01",
+    "entry_px": 630.0,
+    "exit_px": 642.0,
+    "pnl": 208.57,
+    "return_pct": 1.4,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2023-07-31",
+    "exit": "2023-08-02",
+    "entry_px": 85.5,
+    "exit_px": 87.1,
+    "pnl": 203.01,
+    "return_pct": 1.36,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2023-08-02",
+    "exit": "2023-08-04",
+    "entry_px": 1778.0,
+    "exit_px": 1880.6,
+    "pnl": 781.58,
+    "return_pct": 5.24,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2023-08-03",
+    "exit": "2023-08-07",
+    "entry_px": 1569.65,
+    "exit_px": 1571.45,
+    "pnl": -57.44,
+    "return_pct": -0.39,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2023-08-03",
+    "exit": "2023-08-07",
+    "entry_px": 293.85,
+    "exit_px": 294.95,
+    "pnl": -18.92,
+    "return_pct": -0.13,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2023-08-03",
+    "exit": "2023-08-07",
+    "entry_px": 324.0,
+    "exit_px": 329.64,
+    "pnl": 183.78,
+    "return_pct": 1.23,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2023-08-03",
+    "exit": "2023-08-07",
+    "entry_px": 875.0,
+    "exit_px": 891.4,
+    "pnl": 203.59,
+    "return_pct": 1.37,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2023-08-04",
+    "exit": "2023-08-08",
+    "entry_px": 471.4,
+    "exit_px": 475.97,
+    "pnl": 70.63,
+    "return_pct": 0.47,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2023-08-07",
+    "exit": "2023-08-09",
+    "entry_px": 545.15,
+    "exit_px": 549.95,
+    "pnl": 57.06,
+    "return_pct": 0.38,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2023-08-07",
+    "exit": "2023-08-09",
+    "entry_px": 1282.9,
+    "exit_px": 1431.4,
+    "pnl": 1668.82,
+    "return_pct": 11.02,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2023-08-09",
+    "exit": "2023-08-11",
+    "entry_px": 583.25,
+    "exit_px": 590.85,
+    "pnl": 123.45,
+    "return_pct": 0.8,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2023-10-12",
+    "exit": "2023-10-16",
+    "entry_px": 1379.95,
+    "exit_px": 1429.25,
+    "pnl": 473.94,
+    "return_pct": 3.06,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2023-10-13",
+    "exit": "2023-10-17",
+    "entry_px": 623.25,
+    "exit_px": 641.8,
+    "pnl": 384.36,
+    "return_pct": 2.46,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2023-10-16",
+    "exit": "2023-10-18",
+    "entry_px": 765.75,
+    "exit_px": 759.875,
+    "pnl": -197.4,
+    "return_pct": -1.26,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2023-10-18",
+    "exit": "2023-10-20",
+    "entry_px": 240.2,
+    "exit_px": 225.5,
+    "pnl": -1030.72,
+    "return_pct": -6.59,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2023-10-19",
+    "exit": "2023-10-23",
+    "entry_px": 2525.0,
+    "exit_px": 2483.5,
+    "pnl": -330.72,
+    "return_pct": -2.13,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2023-10-20",
+    "exit": "2023-10-25",
+    "entry_px": 453.0,
+    "exit_px": 446.7,
+    "pnl": -289.88,
+    "return_pct": -1.88,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2023-10-23",
+    "exit": "2023-10-26",
+    "entry_px": 353.8,
+    "exit_px": 338.97,
+    "pnl": -717.51,
+    "return_pct": -4.67,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2023-10-26",
+    "exit": "2023-10-30",
+    "entry_px": 1552.0,
+    "exit_px": 1459.1,
+    "pnl": -979.27,
+    "return_pct": -6.46,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2023-10-26",
+    "exit": "2023-10-30",
+    "entry_px": 875.0,
+    "exit_px": 935.3,
+    "pnl": 964.45,
+    "return_pct": 6.36,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2023-10-30",
+    "exit": "2023-11-01",
+    "entry_px": 86.9,
+    "exit_px": 81.1,
+    "pnl": -1082.98,
+    "return_pct": -7.14,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2023-10-30",
+    "exit": "2023-11-01",
+    "entry_px": 688.0,
+    "exit_px": 668.65,
+    "pnl": -500.18,
+    "return_pct": -3.3,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2023-10-31",
+    "exit": "2023-11-02",
+    "entry_px": 1769.9,
+    "exit_px": 1800.65,
+    "pnl": 139.84,
+    "return_pct": 1.23,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2023-10-31",
+    "exit": "2023-11-02",
+    "entry_px": 920.3,
+    "exit_px": 923.85,
+    "pnl": -13.15,
+    "return_pct": -0.12,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2023-10-31",
+    "exit": "2023-11-02",
+    "entry_px": 2929.95,
+    "exit_px": 2918.1001,
+    "pnl": -102.58,
+    "return_pct": -0.9,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2023-10-31",
+    "exit": "2023-11-02",
+    "entry_px": 589.3,
+    "exit_px": 548.9,
+    "pnl": -832.75,
+    "return_pct": -7.32,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2023-11-01",
+    "exit": "2023-11-02",
+    "entry_px": 621.0,
+    "exit_px": 558.9,
+    "pnl": -1524.71,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2023-11-06",
+    "exit": "2023-11-08",
+    "entry_px": 582.95,
+    "exit_px": 590.6,
+    "pnl": 115.98,
+    "return_pct": 0.81,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2023-11-06",
+    "exit": "2023-11-08",
+    "entry_px": 1439.95,
+    "exit_px": 1432.0,
+    "pnl": -150.84,
+    "return_pct": -1.05,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2023-11-06",
+    "exit": "2023-11-08",
+    "entry_px": 383.52,
+    "exit_px": 403.54,
+    "pnl": 675.26,
+    "return_pct": 4.69,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2023-11-07",
+    "exit": "2023-11-09",
+    "entry_px": 582.0,
+    "exit_px": 631.35,
+    "pnl": 1148.6,
+    "return_pct": 7.94,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2023-11-08",
+    "exit": "2023-11-10",
+    "entry_px": 488.8,
+    "exit_px": 485.08,
+    "pnl": -183.51,
+    "return_pct": -1.26,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2024-01-11",
+    "exit": "2024-01-15",
+    "entry_px": 1715.0,
+    "exit_px": 1751.05,
+    "pnl": 234.13,
+    "return_pct": 1.59,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2024-01-12",
+    "exit": "2024-01-16",
+    "entry_px": 646.85,
+    "exit_px": 611.25,
+    "pnl": -879.51,
+    "return_pct": -5.98,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2024-01-16",
+    "exit": "2024-01-18",
+    "entry_px": 836.5,
+    "exit_px": 752.85,
+    "pnl": -1523.08,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Home First",
+    "entry": "2024-01-18",
+    "exit": "2024-01-23",
+    "entry_px": 965.0,
+    "exit_px": 990.35,
+    "pnl": 301.75,
+    "return_pct": 2.11,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2024-01-19",
+    "exit": "2024-01-24",
+    "entry_px": 2565.0,
+    "exit_px": 2441.6499,
+    "pnl": -760.64,
+    "return_pct": -5.28,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2024-01-23",
+    "exit": "2024-01-25",
+    "entry_px": 85.2,
+    "exit_px": 80.05,
+    "pnl": -919.23,
+    "return_pct": -6.51,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2024-01-23",
+    "exit": "2024-01-25",
+    "entry_px": 360.2,
+    "exit_px": 353.68,
+    "pnl": -324.64,
+    "return_pct": -2.3,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2024-01-25",
+    "exit": "2024-01-29",
+    "entry_px": 740.0,
+    "exit_px": 666.0,
+    "pnl": -1455.66,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2024-01-25",
+    "exit": "2024-01-30",
+    "entry_px": 547.7,
+    "exit_px": 599.65,
+    "pnl": 1245.16,
+    "return_pct": 8.94,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2024-01-30",
+    "exit": "2024-02-01",
+    "entry_px": 3715.95,
+    "exit_px": 3398.0,
+    "pnl": -1251.76,
+    "return_pct": -9.01,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2024-01-30",
+    "exit": "2024-02-01",
+    "entry_px": 560.0,
+    "exit_px": 583.8,
+    "pnl": 517.96,
+    "return_pct": 3.73,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2024-01-31",
+    "exit": "2024-02-02",
+    "entry_px": 2064.95,
+    "exit_px": 2035.25,
+    "pnl": -266.25,
+    "return_pct": -1.93,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2024-01-31",
+    "exit": "2024-02-02",
+    "entry_px": 734.05,
+    "exit_px": 766.4,
+    "pnl": 535.9,
+    "return_pct": 3.89,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2024-01-31",
+    "exit": "2024-02-02",
+    "entry_px": 1390.55,
+    "exit_px": 1520.1,
+    "pnl": 1209.61,
+    "return_pct": 8.77,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2024-02-01",
+    "exit": "2024-02-05",
+    "entry_px": 1497.95,
+    "exit_px": 1438.5,
+    "pnl": -628.65,
+    "return_pct": -4.45,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2024-02-05",
+    "exit": "2024-02-07",
+    "entry_px": 515.8,
+    "exit_px": 538.08,
+    "pnl": 528.45,
+    "return_pct": 3.8,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2024-02-05",
+    "exit": "2024-02-07",
+    "entry_px": 1154.35,
+    "exit_px": 1134.3,
+    "pnl": -309.9,
+    "return_pct": -2.23,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2024-02-06",
+    "exit": "2024-02-07",
+    "entry_px": 570.3,
+    "exit_px": 513.27,
+    "pnl": -1460.12,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2024-02-06",
+    "exit": "2024-02-08",
+    "entry_px": 579.67,
+    "exit_px": 587.58,
+    "pnl": 119.94,
+    "return_pct": 0.86,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2024-02-07",
+    "exit": "2024-02-09",
+    "entry_px": 695.4,
+    "exit_px": 625.86,
+    "pnl": -1422.37,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2024-02-09",
+    "exit": "2024-02-13",
+    "entry_px": 216.0,
+    "exit_px": 194.4,
+    "pnl": -1400.54,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2024-04-18",
+    "exit": "2024-04-22",
+    "entry_px": 618.0,
+    "exit_px": 605.95,
+    "pnl": -320.13,
+    "return_pct": -2.44,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2024-04-19",
+    "exit": "2024-04-23",
+    "entry_px": 1884.025,
+    "exit_px": 1822.875,
+    "pnl": -486.49,
+    "return_pct": -3.73,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2024-04-22",
+    "exit": "2024-04-24",
+    "entry_px": 778.7,
+    "exit_px": 755.85,
+    "pnl": -443.43,
+    "return_pct": -3.42,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2024-04-24",
+    "exit": "2024-04-26",
+    "entry_px": 2266.05,
+    "exit_px": 2222.6499,
+    "pnl": -309.6,
+    "return_pct": -2.41,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2024-04-24",
+    "exit": "2024-04-26",
+    "entry_px": 613.7,
+    "exit_px": 599.8,
+    "pnl": -354.39,
+    "return_pct": -2.75,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2024-04-25",
+    "exit": "2024-04-29",
+    "entry_px": 1638.4,
+    "exit_px": 1619.7,
+    "pnl": -209.28,
+    "return_pct": -1.64,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2024-04-29",
+    "exit": "2024-05-02",
+    "entry_px": 83.4,
+    "exit_px": 81.55,
+    "pnl": -343.68,
+    "return_pct": -2.71,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2024-04-29",
+    "exit": "2024-05-02",
+    "entry_px": 711.0,
+    "exit_px": 815.95,
+    "pnl": 1801.6,
+    "return_pct": 14.19,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2024-04-30",
+    "exit": "2024-05-03",
+    "entry_px": 566.0,
+    "exit_px": 557.25,
+    "pnl": -260.53,
+    "return_pct": -2.04,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2024-05-06",
+    "exit": "2024-05-08",
+    "entry_px": 1092.5,
+    "exit_px": 1084.325,
+    "pnl": -160.94,
+    "return_pct": -1.24,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2024-05-06",
+    "exit": "2024-05-08",
+    "entry_px": 321.0,
+    "exit_px": 329.67,
+    "pnl": 283.09,
+    "return_pct": 2.19,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2024-05-08",
+    "exit": "2024-05-10",
+    "entry_px": 3429.0,
+    "exit_px": 3271.45,
+    "pnl": -657.32,
+    "return_pct": -5.07,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2024-05-09",
+    "exit": "2024-05-13",
+    "entry_px": 632.47,
+    "exit_px": 625.29,
+    "pnl": -209.15,
+    "return_pct": -1.63,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2024-05-09",
+    "exit": "2024-05-13",
+    "entry_px": 896.25,
+    "exit_px": 806.625,
+    "pnl": -1341.69,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2024-05-10",
+    "exit": "2024-05-13",
+    "entry_px": 465.9,
+    "exit_px": 419.31,
+    "pnl": -1319.74,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2024-05-13",
+    "exit": "2024-05-15",
+    "entry_px": 594.7,
+    "exit_px": 599.76,
+    "pnl": 42.56,
+    "return_pct": 0.35,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2024-05-14",
+    "exit": "2024-05-16",
+    "entry_px": 1290.55,
+    "exit_px": 1345.1,
+    "pnl": 454.19,
+    "return_pct": 3.71,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2024-05-15",
+    "exit": "2024-05-17",
+    "entry_px": 2270.0,
+    "exit_px": 2090.6499,
+    "pnl": -1028.01,
+    "return_pct": -8.36,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2024-05-17",
+    "exit": "2024-05-22",
+    "entry_px": 181.0,
+    "exit_px": 183.5,
+    "pnl": 106.31,
+    "return_pct": 0.87,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2024-05-17",
+    "exit": "2024-05-22",
+    "entry_px": 1669.1,
+    "exit_px": 1800.4,
+    "pnl": 890.36,
+    "return_pct": 7.33,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2024-05-22",
+    "exit": "2024-05-24",
+    "entry_px": 838.0,
+    "exit_px": 789.4,
+    "pnl": -774.31,
+    "return_pct": -6.27,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2024-05-23",
+    "exit": "2024-05-27",
+    "entry_px": 759.0,
+    "exit_px": 837.2,
+    "pnl": 1193.74,
+    "return_pct": 9.75,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2024-05-28",
+    "exit": "2024-05-30",
+    "entry_px": 1822.0,
+    "exit_px": 1727.4,
+    "pnl": -704.43,
+    "return_pct": -5.67,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2024-07-15",
+    "exit": "2024-07-18",
+    "entry_px": 635.55,
+    "exit_px": 648.9,
+    "pnl": 195.54,
+    "return_pct": 1.59,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2024-07-15",
+    "exit": "2024-07-18",
+    "entry_px": 2085.5,
+    "exit_px": 2081.25,
+    "pnl": -86.31,
+    "return_pct": -0.7,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2024-07-22",
+    "exit": "2024-07-24",
+    "entry_px": 2043.5,
+    "exit_px": 2029.15,
+    "pnl": -147.54,
+    "return_pct": -1.2,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2024-07-22",
+    "exit": "2024-07-24",
+    "entry_px": 808.5,
+    "exit_px": 802.025,
+    "pnl": -159.62,
+    "return_pct": -1.3,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2024-07-22",
+    "exit": "2024-07-24",
+    "entry_px": 364.2,
+    "exit_px": 349.24,
+    "pnl": -564.8,
+    "return_pct": -4.59,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2024-07-23",
+    "exit": "2024-07-25",
+    "entry_px": 2746.0,
+    "exit_px": 2707.2,
+    "pnl": -232.8,
+    "return_pct": -1.91,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2024-07-24",
+    "exit": "2024-07-26",
+    "entry_px": 3549.0,
+    "exit_px": 3679.8999,
+    "pnl": 383.9,
+    "return_pct": 3.17,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2024-07-25",
+    "exit": "2024-07-29",
+    "entry_px": 1720.1,
+    "exit_px": 1730.4,
+    "pnl": 11.7,
+    "return_pct": 0.1,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2024-07-25",
+    "exit": "2024-07-29",
+    "entry_px": 1040.0,
+    "exit_px": 1077.25,
+    "pnl": 371.88,
+    "return_pct": 3.06,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2024-07-25",
+    "exit": "2024-07-29",
+    "entry_px": 657.3,
+    "exit_px": 650.05,
+    "pnl": -193.78,
+    "return_pct": -1.6,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2024-07-26",
+    "exit": "2024-07-30",
+    "entry_px": 185.1,
+    "exit_px": 219.77,
+    "pnl": 2215.41,
+    "return_pct": 18.14,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2024-07-26",
+    "exit": "2024-07-30",
+    "entry_px": 771.8,
+    "exit_px": 821.95,
+    "pnl": 728.72,
+    "return_pct": 5.97,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2024-07-29",
+    "exit": "2024-07-31",
+    "entry_px": 73.69,
+    "exit_px": 75.99,
+    "pnl": 331.65,
+    "return_pct": 2.61,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2024-07-30",
+    "exit": "2024-08-01",
+    "entry_px": 1800.0,
+    "exit_px": 1740.2,
+    "pnl": -489.77,
+    "return_pct": -3.81,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2024-07-30",
+    "exit": "2024-08-01",
+    "entry_px": 678.04,
+    "exit_px": 630.3,
+    "pnl": -966.03,
+    "return_pct": -7.51,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2024-07-30",
+    "exit": "2024-08-01",
+    "entry_px": 618.45,
+    "exit_px": 602.2,
+    "pnl": -400.8,
+    "return_pct": -3.11,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2024-07-31",
+    "exit": "2024-08-02",
+    "entry_px": 2057.8999,
+    "exit_px": 2000.05,
+    "pnl": -415.6,
+    "return_pct": -3.3,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2024-08-01",
+    "exit": "2024-08-05",
+    "entry_px": 934.95,
+    "exit_px": 865.75,
+    "pnl": -976.76,
+    "return_pct": -7.86,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2024-08-02",
+    "exit": "2024-08-05",
+    "entry_px": 873.81,
+    "exit_px": 786.429,
+    "pnl": -1290.85,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2024-08-05",
+    "exit": "2024-08-06",
+    "entry_px": 484.9,
+    "exit_px": 436.41,
+    "pnl": -1249.28,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2024-08-05",
+    "exit": "2024-08-07",
+    "entry_px": 1225.0,
+    "exit_px": 1174.525,
+    "pnl": -549.86,
+    "return_pct": -4.6,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2024-08-05",
+    "exit": "2024-08-07",
+    "entry_px": 1482.0,
+    "exit_px": 1441.75,
+    "pnl": -382.78,
+    "return_pct": -3.2,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2024-08-07",
+    "exit": "2024-08-09",
+    "entry_px": 977.85,
+    "exit_px": 1006.2,
+    "pnl": 274.77,
+    "return_pct": 2.39,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2024-10-15",
+    "exit": "2024-10-17",
+    "entry_px": 742.8,
+    "exit_px": 726.1,
+    "pnl": -316.71,
+    "return_pct": -2.74,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2024-10-15",
+    "exit": "2024-10-17",
+    "entry_px": 2249.95,
+    "exit_px": 2364.325,
+    "pnl": 527.62,
+    "return_pct": 4.56,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2024-10-21",
+    "exit": "2024-10-23",
+    "entry_px": 857.5,
+    "exit_px": 867.9,
+    "pnl": 82.17,
+    "return_pct": 0.71,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2024-10-21",
+    "exit": "2024-10-23",
+    "entry_px": 370.0,
+    "exit_px": 353.56,
+    "pnl": -571.57,
+    "return_pct": -4.92,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2024-10-22",
+    "exit": "2024-10-24",
+    "entry_px": 584.2,
+    "exit_px": 609.3,
+    "pnl": 434.02,
+    "return_pct": 3.78,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2024-10-23",
+    "exit": "2024-10-25",
+    "entry_px": 2621.0,
+    "exit_px": 2528.05,
+    "pnl": -470.77,
+    "return_pct": -4.03,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2024-10-23",
+    "exit": "2024-10-25",
+    "entry_px": 638.5,
+    "exit_px": 604.5,
+    "pnl": -677.61,
+    "return_pct": -5.8,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2024-10-24",
+    "exit": "2024-10-28",
+    "entry_px": 1125.85,
+    "exit_px": 1103.05,
+    "pnl": -289.57,
+    "return_pct": -2.51,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2024-10-24",
+    "exit": "2024-10-28",
+    "entry_px": 1620.55,
+    "exit_px": 1458.495,
+    "pnl": -1203.4,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2024-10-25",
+    "exit": "2024-10-29",
+    "entry_px": 180.0,
+    "exit_px": 179.13,
+    "pnl": -109.32,
+    "return_pct": -0.98,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2024-10-25",
+    "exit": "2024-10-29",
+    "entry_px": 399.0,
+    "exit_px": 497.45,
+    "pnl": 2682.19,
+    "return_pct": 24.05,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2024-10-28",
+    "exit": "2024-10-30",
+    "entry_px": 871.09,
+    "exit_px": 876.36,
+    "pnl": 5.66,
+    "return_pct": 0.1,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2024-10-28",
+    "exit": "2024-10-30",
+    "entry_px": 1472.0,
+    "exit_px": 1519.0,
+    "pnl": 147.63,
+    "return_pct": 2.68,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2024-10-28",
+    "exit": "2024-10-30",
+    "entry_px": 61.01,
+    "exit_px": 68.79,
+    "pnl": 672.03,
+    "return_pct": 12.19,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2024-10-28",
+    "exit": "2024-10-30",
+    "entry_px": 951.55,
+    "exit_px": 957.95,
+    "pnl": 9.36,
+    "return_pct": 0.17,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2024-10-28",
+    "exit": "2024-10-30",
+    "entry_px": 2538.95,
+    "exit_px": 2790.45,
+    "pnl": 515.88,
+    "return_pct": 9.36,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2024-10-28",
+    "exit": "2024-10-30",
+    "entry_px": 1658.15,
+    "exit_px": 1633.35,
+    "pnl": -109.58,
+    "return_pct": -1.99,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2024-10-29",
+    "exit": "2024-10-31",
+    "entry_px": 540.1,
+    "exit_px": 503.95,
+    "pnl": -837.59,
+    "return_pct": -7.16,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2024-10-30",
+    "exit": "2024-11-01",
+    "entry_px": 3379.95,
+    "exit_px": 3626.3501,
+    "pnl": 792.21,
+    "return_pct": 6.75,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2024-11-05",
+    "exit": "2024-11-07",
+    "entry_px": 2730.0,
+    "exit_px": 2727.0,
+    "pnl": -72.01,
+    "return_pct": -0.61,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2024-11-05",
+    "exit": "2024-11-07",
+    "entry_px": 1030.0,
+    "exit_px": 1078.75,
+    "pnl": 498.07,
+    "return_pct": 4.21,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2024-11-07",
+    "exit": "2024-11-11",
+    "entry_px": 1693.6,
+    "exit_px": 1656.3,
+    "pnl": -320.63,
+    "return_pct": -2.69,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2024-11-12",
+    "exit": "2024-11-14",
+    "entry_px": 929.0,
+    "exit_px": 995.15,
+    "pnl": 780.51,
+    "return_pct": 6.59,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2025-01-14",
+    "exit": "2025-01-16",
+    "entry_px": 1926.175,
+    "exit_px": 2045.35,
+    "pnl": 679.26,
+    "return_pct": 5.66,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2025-01-15",
+    "exit": "2025-01-17",
+    "entry_px": 604.5,
+    "exit_px": 642.2,
+    "pnl": 691.75,
+    "return_pct": 5.71,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2025-01-20",
+    "exit": "2025-01-22",
+    "entry_px": 378.0,
+    "exit_px": 383.5,
+    "pnl": 116.48,
+    "return_pct": 0.95,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2025-01-22",
+    "exit": "2025-01-24",
+    "entry_px": 821.2,
+    "exit_px": 824.9,
+    "pnl": -6.28,
+    "return_pct": -0.05,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2025-01-22",
+    "exit": "2025-01-24",
+    "entry_px": 2342.55,
+    "exit_px": 2368.1001,
+    "pnl": 72.09,
+    "return_pct": 0.59,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2025-01-23",
+    "exit": "2025-01-27",
+    "entry_px": 1084.6,
+    "exit_px": 1131.8,
+    "pnl": 471.36,
+    "return_pct": 3.83,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2025-01-23",
+    "exit": "2025-01-27",
+    "entry_px": 2516.2,
+    "exit_px": 2453.95,
+    "pnl": -364.34,
+    "return_pct": -2.96,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2025-01-24",
+    "exit": "2025-01-28",
+    "entry_px": 578.45,
+    "exit_px": 588.7,
+    "pnl": 157.7,
+    "return_pct": 1.26,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2025-01-27",
+    "exit": "2025-01-28",
+    "entry_px": 1400.0,
+    "exit_px": 1260.0,
+    "pnl": -1282.04,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2025-01-27",
+    "exit": "2025-01-29",
+    "entry_px": 59.01,
+    "exit_px": 59.82,
+    "pnl": 106.3,
+    "return_pct": 0.87,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2025-01-28",
+    "exit": "2025-01-30",
+    "entry_px": 987.0,
+    "exit_px": 945.1,
+    "pnl": -570.41,
+    "return_pct": -4.72,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2025-01-28",
+    "exit": "2025-01-30",
+    "entry_px": 1230.0,
+    "exit_px": 1225.55,
+    "pnl": -103.78,
+    "return_pct": -0.86,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2025-01-28",
+    "exit": "2025-01-30",
+    "entry_px": 446.35,
+    "exit_px": 434.95,
+    "pnl": -367.2,
+    "return_pct": -3.04,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2025-01-28",
+    "exit": "2025-01-30",
+    "entry_px": 436.75,
+    "exit_px": 536.1,
+    "pnl": 2673.07,
+    "return_pct": 22.13,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2025-01-29",
+    "exit": "2025-01-31",
+    "entry_px": 748.0,
+    "exit_px": 720.7,
+    "pnl": -511.21,
+    "return_pct": -4.13,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2025-01-30",
+    "exit": "2025-02-01",
+    "entry_px": 1691.9,
+    "exit_px": 1688.6,
+    "pnl": -85.91,
+    "return_pct": -0.69,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2025-01-30",
+    "exit": "2025-02-01",
+    "entry_px": 1040.1,
+    "exit_px": 1108.25,
+    "pnl": 745.81,
+    "return_pct": 6.02,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2025-01-30",
+    "exit": "2025-02-01",
+    "entry_px": 3455.0,
+    "exit_px": 3447.5,
+    "pnl": -88.62,
+    "return_pct": -0.72,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2025-01-31",
+    "exit": "2025-02-03",
+    "entry_px": 149.07,
+    "exit_px": 147.56,
+    "pnl": -188.45,
+    "return_pct": -1.51,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2025-02-03",
+    "exit": "2025-02-05",
+    "entry_px": 2410.75,
+    "exit_px": 2486.5,
+    "pnl": 326.73,
+    "return_pct": 2.63,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2025-02-06",
+    "exit": "2025-02-10",
+    "entry_px": 1027.9,
+    "exit_px": 1073.1,
+    "pnl": 484.58,
+    "return_pct": 3.88,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2025-02-06",
+    "exit": "2025-02-10",
+    "entry_px": 1665.9,
+    "exit_px": 1693.05,
+    "pnl": 140.3,
+    "return_pct": 1.12,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2025-02-10",
+    "exit": "2025-02-12",
+    "entry_px": 558.4,
+    "exit_px": 534.5,
+    "pnl": -600.81,
+    "return_pct": -4.76,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2025-04-17",
+    "exit": "2025-04-22",
+    "entry_px": 716.05,
+    "exit_px": 712.55,
+    "pnl": -123.28,
+    "return_pct": -0.99,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2025-04-17",
+    "exit": "2025-04-22",
+    "entry_px": 2065.0,
+    "exit_px": 2254.8,
+    "pnl": 1081.36,
+    "return_pct": 8.65,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2025-04-21",
+    "exit": "2025-04-23",
+    "entry_px": 962.0,
+    "exit_px": 961.95,
+    "pnl": -63.98,
+    "return_pct": -0.5,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2025-04-22",
+    "exit": "2025-04-24",
+    "entry_px": 623.8,
+    "exit_px": 681.05,
+    "pnl": 1099.93,
+    "return_pct": 8.63,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2025-04-24",
+    "exit": "2025-04-28",
+    "entry_px": 2108.0,
+    "exit_px": 1991.5,
+    "pnl": -774.14,
+    "return_pct": -6.0,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2025-04-24",
+    "exit": "2025-04-28",
+    "entry_px": 2423.8,
+    "exit_px": 2318.6001,
+    "pnl": -621.8,
+    "return_pct": -4.82,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2025-04-28",
+    "exit": "2025-04-30",
+    "entry_px": 63.52,
+    "exit_px": 64.89,
+    "pnl": 207.92,
+    "return_pct": 1.65,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2025-04-28",
+    "exit": "2025-04-30",
+    "entry_px": 1220.0,
+    "exit_px": 1197.6,
+    "pnl": -293.73,
+    "return_pct": -2.33,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2025-04-29",
+    "exit": "2025-05-02",
+    "entry_px": 402.0,
+    "exit_px": 377.05,
+    "pnl": -857.86,
+    "return_pct": -6.67,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2025-04-30",
+    "exit": "2025-05-05",
+    "entry_px": 167.5,
+    "exit_px": 164.4,
+    "pnl": -293.2,
+    "return_pct": -2.34,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2025-04-30",
+    "exit": "2025-05-05",
+    "entry_px": 529.0,
+    "exit_px": 538.75,
+    "pnl": 167.15,
+    "return_pct": 1.33,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2025-05-02",
+    "exit": "2025-05-06",
+    "entry_px": 1241.1,
+    "exit_px": 1152.1,
+    "pnl": -939.57,
+    "return_pct": -7.63,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2025-05-02",
+    "exit": "2025-05-06",
+    "entry_px": 1051.0,
+    "exit_px": 1213.5,
+    "pnl": 1831.84,
+    "return_pct": 14.88,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2025-05-05",
+    "exit": "2025-05-07",
+    "entry_px": 772.0,
+    "exit_px": 728.54,
+    "pnl": -761.58,
+    "return_pct": -6.1,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2025-05-05",
+    "exit": "2025-05-07",
+    "entry_px": 1279.9,
+    "exit_px": 1266.6,
+    "pnl": -191.41,
+    "return_pct": -1.53,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2025-05-05",
+    "exit": "2025-05-07",
+    "entry_px": 421.02,
+    "exit_px": 418.98,
+    "pnl": -122.52,
+    "return_pct": -0.98,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2025-05-06",
+    "exit": "2025-05-08",
+    "entry_px": 2612.1001,
+    "exit_px": 2674.8,
+    "pnl": 233.0,
+    "return_pct": 1.89,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2025-05-08",
+    "exit": "2025-05-12",
+    "entry_px": 3310.1001,
+    "exit_px": 3587.2,
+    "pnl": 972.71,
+    "return_pct": 7.83,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2025-05-13",
+    "exit": "2025-05-15",
+    "entry_px": 1870.0,
+    "exit_px": 1867.2,
+    "pnl": -81.81,
+    "return_pct": -0.65,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2025-05-13",
+    "exit": "2025-05-15",
+    "entry_px": 545.0,
+    "exit_px": 529.6,
+    "pnl": -417.75,
+    "return_pct": -3.31,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2025-05-20",
+    "exit": "2025-05-22",
+    "entry_px": 1183.0,
+    "exit_px": 1148.2,
+    "pnl": -428.89,
+    "return_pct": -3.43,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2025-05-21",
+    "exit": "2025-05-23",
+    "entry_px": 2532.1001,
+    "exit_px": 2432.3999,
+    "pnl": -548.82,
+    "return_pct": -4.42,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2025-05-21",
+    "exit": "2025-05-23",
+    "entry_px": 974.05,
+    "exit_px": 1009.25,
+    "pnl": 384.71,
+    "return_pct": 3.1,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2025-07-15",
+    "exit": "2025-07-17",
+    "entry_px": 769.0,
+    "exit_px": 751.8,
+    "pnl": -337.85,
+    "return_pct": -2.72,
+    "reason": "time"
+  },
+  {
+    "name": "Angel One",
+    "entry": "2025-07-16",
+    "exit": "2025-07-18",
+    "entry_px": 267.5,
+    "exit_px": 267.8,
+    "pnl": -47.89,
+    "return_pct": -0.39,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2025-07-17",
+    "exit": "2025-07-21",
+    "entry_px": 2691.25,
+    "exit_px": 2811.0,
+    "pnl": 486.48,
+    "return_pct": 3.93,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2025-07-18",
+    "exit": "2025-07-22",
+    "entry_px": 184.64,
+    "exit_px": 180.94,
+    "pnl": -309.43,
+    "return_pct": -2.49,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2025-07-21",
+    "exit": "2025-07-23",
+    "entry_px": 989.1,
+    "exit_px": 1012.15,
+    "pnl": 225.25,
+    "return_pct": 1.82,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2025-07-21",
+    "exit": "2025-07-23",
+    "entry_px": 770.0,
+    "exit_px": 736.75,
+    "pnl": -593.77,
+    "return_pct": -4.8,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2025-07-23",
+    "exit": "2025-07-25",
+    "entry_px": 700.0,
+    "exit_px": 728.15,
+    "pnl": 430.16,
+    "return_pct": 3.5,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2025-07-24",
+    "exit": "2025-07-28",
+    "entry_px": 1263.0,
+    "exit_px": 1149.0,
+    "pnl": -1165.95,
+    "return_pct": -9.48,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2025-07-25",
+    "exit": "2025-07-29",
+    "entry_px": 1419.0,
+    "exit_px": 1304.3,
+    "pnl": -1039.75,
+    "return_pct": -8.54,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2025-07-28",
+    "exit": "2025-07-30",
+    "entry_px": 1550.0,
+    "exit_px": 1512.8,
+    "pnl": -347.9,
+    "return_pct": -2.89,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2025-07-28",
+    "exit": "2025-07-30",
+    "entry_px": 69.89,
+    "exit_px": 69.24,
+    "pnl": -171.67,
+    "return_pct": -1.42,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2025-07-28",
+    "exit": "2025-07-30",
+    "entry_px": 405.06,
+    "exit_px": 391.94,
+    "pnl": -448.49,
+    "return_pct": -3.72,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2025-07-29",
+    "exit": "2025-07-31",
+    "entry_px": 486.1,
+    "exit_px": 522.6,
+    "pnl": 545.98,
+    "return_pct": 6.97,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2025-07-29",
+    "exit": "2025-07-31",
+    "entry_px": 3418.0,
+    "exit_px": 3636.5,
+    "pnl": 459.01,
+    "return_pct": 5.86,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2025-07-29",
+    "exit": "2025-07-31",
+    "entry_px": 420.2,
+    "exit_px": 444.65,
+    "pnl": 414.29,
+    "return_pct": 5.29,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2025-07-30",
+    "exit": "2025-08-01",
+    "entry_px": 784.98,
+    "exit_px": 728.88,
+    "pnl": -917.36,
+    "return_pct": -7.61,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2025-07-31",
+    "exit": "2025-08-04",
+    "entry_px": 2550.0,
+    "exit_px": 2628.8999,
+    "pnl": 306.86,
+    "return_pct": 2.58,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2025-07-31",
+    "exit": "2025-08-04",
+    "entry_px": 1400.0,
+    "exit_px": 1292.7,
+    "pnl": -966.68,
+    "return_pct": -8.13,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2025-07-31",
+    "exit": "2025-08-04",
+    "entry_px": 2420.1001,
+    "exit_px": 2543.7,
+    "pnl": 545.17,
+    "return_pct": 4.58,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2025-08-05",
+    "exit": "2025-08-07",
+    "entry_px": 1920.0,
+    "exit_px": 1922.6,
+    "pnl": -43.07,
+    "return_pct": -0.36,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2025-08-06",
+    "exit": "2025-08-08",
+    "entry_px": 1103.0,
+    "exit_px": 1084.0,
+    "pnl": -261.57,
+    "return_pct": -2.21,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2025-08-08",
+    "exit": "2025-08-12",
+    "entry_px": 1939.9,
+    "exit_px": 1922.7,
+    "pnl": -162.35,
+    "return_pct": -1.38,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2025-08-12",
+    "exit": "2025-08-14",
+    "entry_px": 1715.0,
+    "exit_px": 1658.0,
+    "pnl": -446.05,
+    "return_pct": -3.81,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2025-08-13",
+    "exit": "2025-08-18",
+    "entry_px": 1270.0,
+    "exit_px": 1211.6,
+    "pnl": -592.18,
+    "return_pct": -5.07,
+    "reason": "time"
+  },
+  {
+    "name": "Angel One",
+    "entry": "2025-10-15",
+    "exit": "2025-10-17",
+    "entry_px": 240.69,
+    "exit_px": 249.65,
+    "pnl": 368.89,
+    "return_pct": 3.2,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2025-10-15",
+    "exit": "2025-10-17",
+    "entry_px": 744.7,
+    "exit_px": 745.95,
+    "pnl": -38.26,
+    "return_pct": -0.33,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2025-10-15",
+    "exit": "2025-10-17",
+    "entry_px": 2808.5,
+    "exit_px": 2857.75,
+    "pnl": 143.37,
+    "return_pct": 1.25,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2025-10-17",
+    "exit": "2025-10-21",
+    "entry_px": 796.95,
+    "exit_px": 861.35,
+    "pnl": 875.2,
+    "return_pct": 7.54,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2025-10-20",
+    "exit": "2025-10-23",
+    "entry_px": 72.75,
+    "exit_px": 78.96,
+    "pnl": 943.16,
+    "return_pct": 7.99,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2025-10-20",
+    "exit": "2025-10-23",
+    "entry_px": 997.0,
+    "exit_px": 1008.8,
+    "pnl": 80.02,
+    "return_pct": 0.68,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2025-10-23",
+    "exit": "2025-10-27",
+    "entry_px": 2601.0,
+    "exit_px": 2511.8,
+    "pnl": -468.83,
+    "return_pct": -3.91,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2025-10-27",
+    "exit": "2025-10-29",
+    "entry_px": 1159.2,
+    "exit_px": 1129.3,
+    "pnl": -364.58,
+    "return_pct": -3.07,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2025-10-27",
+    "exit": "2025-10-29",
+    "entry_px": 434.44,
+    "exit_px": 430.1,
+    "pnl": -177.59,
+    "return_pct": -1.49,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2025-10-28",
+    "exit": "2025-10-30",
+    "entry_px": 796.0,
+    "exit_px": 791.42,
+    "pnl": -127.55,
+    "return_pct": -1.07,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2025-10-28",
+    "exit": "2025-10-30",
+    "entry_px": 486.95,
+    "exit_px": 481.05,
+    "pnl": -202.88,
+    "return_pct": -1.7,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2025-10-29",
+    "exit": "2025-10-31",
+    "entry_px": 455.0,
+    "exit_px": 469.65,
+    "pnl": 315.47,
+    "return_pct": 2.7,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2025-10-29",
+    "exit": "2025-10-31",
+    "entry_px": 3988.0,
+    "exit_px": 4030.8999,
+    "pnl": 66.61,
+    "return_pct": 0.57,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2025-10-30",
+    "exit": "2025-11-03",
+    "entry_px": 172.64,
+    "exit_px": 155.376,
+    "pnl": -1239.29,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2025-10-31",
+    "exit": "2025-11-04",
+    "entry_px": 1410.0,
+    "exit_px": 1421.8,
+    "pnl": 38.56,
+    "return_pct": 0.33,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2025-11-03",
+    "exit": "2025-11-06",
+    "entry_px": 1585.0,
+    "exit_px": 1532.9,
+    "pnl": -433.87,
+    "return_pct": -3.77,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2025-11-03",
+    "exit": "2025-11-06",
+    "entry_px": 2055.0,
+    "exit_px": 2094.8999,
+    "pnl": 164.86,
+    "return_pct": 1.43,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2025-11-04",
+    "exit": "2025-11-06",
+    "entry_px": 1274.8,
+    "exit_px": 1147.32,
+    "pnl": -1205.92,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2025-11-06",
+    "exit": "2025-11-10",
+    "entry_px": 2375.0,
+    "exit_px": 2236.6001,
+    "pnl": -709.01,
+    "return_pct": -6.3,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2025-11-07",
+    "exit": "2025-11-11",
+    "entry_px": 1237.0,
+    "exit_px": 1311.1,
+    "pnl": 608.67,
+    "return_pct": 5.46,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2025-11-10",
+    "exit": "2025-11-12",
+    "entry_px": 1885.1,
+    "exit_px": 2025.3,
+    "pnl": 776.95,
+    "return_pct": 6.9,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2025-11-10",
+    "exit": "2025-11-12",
+    "entry_px": 803.0,
+    "exit_px": 892.9,
+    "pnl": 1197.98,
+    "return_pct": 10.64,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2025-11-11",
+    "exit": "2025-11-13",
+    "entry_px": 1656.9,
+    "exit_px": 1736.4,
+    "pnl": 492.37,
+    "return_pct": 4.27,
+    "reason": "time"
+  },
+  {
+    "name": "SKY Gold",
+    "entry": "2025-11-13",
+    "exit": "2025-11-17",
+    "entry_px": 356.0,
+    "exit_px": 361.4,
+    "pnl": 118.48,
+    "return_pct": 1.01,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2025-11-14",
+    "exit": "2025-11-18",
+    "entry_px": 1093.7,
+    "exit_px": 1116.7,
+    "pnl": 185.84,
+    "return_pct": 1.59,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2026-01-14",
+    "exit": "2026-01-16",
+    "entry_px": 2498.3,
+    "exit_px": 2596.3999,
+    "pnl": 401.86,
+    "return_pct": 3.41,
+    "reason": "time"
+  },
+  {
+    "name": "Angel One",
+    "entry": "2026-01-15",
+    "exit": "2026-01-19",
+    "entry_px": 252.54,
+    "exit_px": 269.51,
+    "pnl": 732.47,
+    "return_pct": 6.19,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2026-01-15",
+    "exit": "2026-01-19",
+    "entry_px": 743.2,
+    "exit_px": 736.8,
+    "pnl": -160.57,
+    "return_pct": -1.36,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2026-01-19",
+    "exit": "2026-01-21",
+    "entry_px": 935.9,
+    "exit_px": 920.35,
+    "pnl": -258.04,
+    "return_pct": -2.15,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2026-01-22",
+    "exit": "2026-01-27",
+    "entry_px": 139.0,
+    "exit_px": 149.02,
+    "pnl": 796.51,
+    "return_pct": 6.67,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2026-01-22",
+    "exit": "2026-01-27",
+    "entry_px": 710.95,
+    "exit_px": 697.7,
+    "pnl": -280.94,
+    "return_pct": -2.35,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2026-01-22",
+    "exit": "2026-01-27",
+    "entry_px": 1053.9,
+    "exit_px": 1251.7,
+    "pnl": 2169.36,
+    "return_pct": 18.18,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2026-01-27",
+    "exit": "2026-01-29",
+    "entry_px": 415.0,
+    "exit_px": 412.4,
+    "pnl": -140.04,
+    "return_pct": -1.12,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2026-01-28",
+    "exit": "2026-01-30",
+    "entry_px": 3804.3,
+    "exit_px": 3932.3,
+    "pnl": 354.66,
+    "return_pct": 2.85,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2026-01-28",
+    "exit": "2026-01-30",
+    "entry_px": 425.2,
+    "exit_px": 469.25,
+    "pnl": 1221.28,
+    "return_pct": 9.81,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2026-01-29",
+    "exit": "2026-02-02",
+    "entry_px": 730.0,
+    "exit_px": 769.35,
+    "pnl": 616.0,
+    "return_pct": 4.86,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2026-02-02",
+    "exit": "2026-02-04",
+    "entry_px": 1229.0,
+    "exit_px": 1366.3,
+    "pnl": 1367.74,
+    "return_pct": 10.62,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2026-02-02",
+    "exit": "2026-02-04",
+    "entry_px": 82.08,
+    "exit_px": 85.14,
+    "pnl": 413.56,
+    "return_pct": 3.21,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2026-02-02",
+    "exit": "2026-02-04",
+    "entry_px": 1380.0,
+    "exit_px": 1457.6,
+    "pnl": 656.49,
+    "return_pct": 5.1,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2026-02-03",
+    "exit": "2026-02-05",
+    "entry_px": 2133.8999,
+    "exit_px": 2080.3999,
+    "pnl": -385.72,
+    "return_pct": -2.99,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2026-02-03",
+    "exit": "2026-02-05",
+    "entry_px": 479.0,
+    "exit_px": 437.1,
+    "pnl": -1185.65,
+    "return_pct": -9.2,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2026-02-05",
+    "exit": "2026-02-06",
+    "entry_px": 1427.9,
+    "exit_px": 1285.11,
+    "pnl": -1364.32,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2026-02-05",
+    "exit": "2026-02-09",
+    "entry_px": 1027.35,
+    "exit_px": 1010.0,
+    "pnl": -284.6,
+    "return_pct": -2.18,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2026-02-05",
+    "exit": "2026-02-09",
+    "entry_px": 1520.0,
+    "exit_px": 1462.5,
+    "pnl": -556.65,
+    "return_pct": -4.26,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2026-02-05",
+    "exit": "2026-02-09",
+    "entry_px": 1208.4,
+    "exit_px": 1204.0,
+    "pnl": -112.5,
+    "return_pct": -0.86,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2026-02-05",
+    "exit": "2026-02-09",
+    "entry_px": 2012.0,
+    "exit_px": 2038.2,
+    "pnl": 103.97,
+    "return_pct": 0.8,
+    "reason": "time"
+  },
+  {
+    "name": "SKY Gold",
+    "entry": "2026-02-09",
+    "exit": "2026-02-11",
+    "entry_px": 325.45,
+    "exit_px": 335.3,
+    "pnl": 316.86,
+    "return_pct": 2.51,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2026-02-12",
+    "exit": "2026-02-16",
+    "entry_px": 2475.0,
+    "exit_px": 2319.0,
+    "pnl": -858.35,
+    "return_pct": -6.77,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2026-02-13",
+    "exit": "2026-02-17",
+    "entry_px": 980.0,
+    "exit_px": 1020.6,
+    "pnl": 452.75,
+    "return_pct": 3.62,
+    "reason": "time"
+  },
+  {
+    "name": "Angel One",
+    "entry": "2026-04-16",
+    "exit": "2026-04-20",
+    "entry_px": 299.35,
+    "exit_px": 319.16,
+    "pnl": 765.41,
+    "return_pct": 6.09,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2026-04-16",
+    "exit": "2026-04-20",
+    "entry_px": 647.0,
+    "exit_px": 609.75,
+    "pnl": -783.36,
+    "return_pct": -6.23,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2026-04-16",
+    "exit": "2026-04-20",
+    "entry_px": 2701.2,
+    "exit_px": 2768.2,
+    "pnl": 247.61,
+    "return_pct": 1.97,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2026-04-20",
+    "exit": "2026-04-22",
+    "entry_px": 797.1,
+    "exit_px": 799.9,
+    "pnl": -18.92,
+    "return_pct": -0.15,
+    "reason": "time"
+  },
+  {
+    "name": "Groww",
+    "entry": "2026-04-20",
+    "exit": "2026-04-22",
+    "entry_px": 201.0,
+    "exit_px": 217.9,
+    "pnl": 993.08,
+    "return_pct": 7.87,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2026-04-27",
+    "exit": "2026-04-29",
+    "entry_px": 67.86,
+    "exit_px": 70.15,
+    "pnl": 366.41,
+    "return_pct": 2.86,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2026-04-27",
+    "exit": "2026-04-29",
+    "entry_px": 494.9,
+    "exit_px": 523.1,
+    "pnl": 662.77,
+    "return_pct": 5.17,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2026-04-27",
+    "exit": "2026-04-29",
+    "entry_px": 1057.0,
+    "exit_px": 1017.65,
+    "pnl": -538.85,
+    "return_pct": -4.2,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2026-04-28",
+    "exit": "2026-04-30",
+    "entry_px": 179.66,
+    "exit_px": 199.72,
+    "pnl": 1360.13,
+    "return_pct": 10.61,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2026-04-28",
+    "exit": "2026-04-30",
+    "entry_px": 515.6,
+    "exit_px": 525.65,
+    "pnl": 184.6,
+    "return_pct": 1.44,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2026-04-29",
+    "exit": "2026-05-01",
+    "entry_px": 962.0,
+    "exit_px": 895.7,
+    "pnl": -975.3,
+    "return_pct": -7.36,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2026-04-30",
+    "exit": "2026-05-04",
+    "entry_px": 1618.1,
+    "exit_px": 1775.2,
+    "pnl": 1194.32,
+    "return_pct": 9.16,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2026-04-30",
+    "exit": "2026-05-04",
+    "entry_px": 2312.0,
+    "exit_px": 2309.3,
+    "pnl": -80.25,
+    "return_pct": -0.62,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2026-05-04",
+    "exit": "2026-05-06",
+    "entry_px": 750.0,
+    "exit_px": 815.85,
+    "pnl": 1091.67,
+    "return_pct": 8.24,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2026-05-04",
+    "exit": "2026-05-06",
+    "entry_px": 1256.2,
+    "exit_px": 1282.8,
+    "pnl": 213.06,
+    "return_pct": 1.61,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2026-05-04",
+    "exit": "2026-05-06",
+    "entry_px": 378.9,
+    "exit_px": 376.6,
+    "pnl": -146.24,
+    "return_pct": -1.1,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2026-05-05",
+    "exit": "2026-05-07",
+    "entry_px": 1375.0,
+    "exit_px": 1419.6,
+    "pnl": 361.57,
+    "return_pct": 2.73,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2026-05-05",
+    "exit": "2026-05-07",
+    "entry_px": 4085.0,
+    "exit_px": 4023.0,
+    "pnl": -266.34,
+    "return_pct": -2.01,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2026-05-06",
+    "exit": "2026-05-08",
+    "entry_px": 1199.0,
+    "exit_px": 1200.3,
+    "pnl": -53.0,
+    "return_pct": -0.39,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2026-05-11",
+    "exit": "2026-05-13",
+    "entry_px": 1104.8,
+    "exit_px": 1035.65,
+    "pnl": -907.75,
+    "return_pct": -6.73,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2026-05-13",
+    "exit": "2026-05-15",
+    "entry_px": 1740.5,
+    "exit_px": 1905.4,
+    "pnl": 1188.46,
+    "return_pct": 8.93,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2026-05-18",
+    "exit": "2026-05-19",
+    "entry_px": 1122.6,
+    "exit_px": 1010.34,
+    "pnl": -1415.89,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2026-05-19",
+    "exit": "2026-05-21",
+    "entry_px": 2504.0,
+    "exit_px": 2514.1001,
+    "pnl": -13.01,
+    "return_pct": -0.1,
+    "reason": "time"
+  },
+  {
+    "name": "ASK Auto",
+    "entry": "2026-05-19",
+    "exit": "2026-05-21",
+    "entry_px": 452.25,
+    "exit_px": 446.1,
+    "pnl": -245.76,
+    "return_pct": -1.85,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2026-05-21",
+    "exit": "2026-05-25",
+    "entry_px": 1086.9,
+    "exit_px": 1000.85,
+    "pnl": -1107.0,
+    "return_pct": -8.38,
+    "reason": "time"
+  },
+  {
+    "name": "Minda Corp",
+    "entry": "2026-05-22",
+    "exit": "2026-05-26",
+    "entry_px": 537.2,
+    "exit_px": 594.95,
+    "pnl": 1331.13,
+    "return_pct": 10.2,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2026-05-25",
+    "exit": "2026-05-26",
+    "entry_px": 1600.0,
+    "exit_px": 1440.0,
+    "pnl": -1381.47,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "SKY Gold",
+    "entry": "2026-05-27",
+    "exit": "2026-05-29",
+    "entry_px": 484.9,
+    "exit_px": 521.0,
+    "pnl": 896.94,
+    "return_pct": 6.91,
+    "reason": "time"
+  },
+  {
+    "name": "Angel One",
+    "entry": "2026-07-15",
+    "exit": "2026-07-17",
+    "entry_px": 335.25,
+    "exit_px": 328.95,
+    "pnl": -311.85,
+    "return_pct": -2.37,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Life",
+    "entry": "2026-07-15",
+    "exit": "2026-07-17",
+    "entry_px": 558.5,
+    "exit_px": 563.65,
+    "pnl": 55.04,
+    "return_pct": 0.42,
+    "reason": "time"
+  },
+  {
+    "name": "Groww",
+    "entry": "2026-07-15",
+    "exit": "2026-07-17",
+    "entry_px": 205.0,
+    "exit_px": 208.3,
+    "pnl": 145.1,
+    "return_pct": 1.1,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC AMC",
+    "entry": "2026-07-15",
+    "exit": "2026-07-17",
+    "entry_px": 2681.7,
+    "exit_px": 2651.2,
+    "pnl": -214.69,
+    "return_pct": -1.63,
+    "reason": "time"
+  },
+  {
+    "name": "HDFC Bank",
+    "entry": "2026-07-20",
+    "exit": "2026-07-22",
+    "entry_px": 790.0,
+    "exit_px": 753.15,
+    "pnl": -673.3,
+    "return_pct": -5.14,
+    "reason": "time"
+  },
+  {
+    "name": "Kotak Bank",
+    "entry": "2026-07-20",
+    "exit": "2026-07-22",
+    "entry_px": 382.0,
+    "exit_px": 381.15,
+    "pnl": -94.4,
+    "return_pct": -0.72,
+    "reason": "time"
+  },
+  {
+    "name": "Bandhan Bank",
+    "entry": "2026-07-21",
+    "exit": "2026-07-22",
+    "entry_px": 211.9,
+    "exit_px": 190.71,
+    "pnl": -1360.22,
+    "return_pct": -10.45,
+    "reason": "stop"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2026-07-21",
+    "exit": "2026-07-23",
+    "entry_px": 1495.5,
+    "exit_px": 1385.9,
+    "pnl": -1014.22,
+    "return_pct": -7.79,
+    "reason": "time"
+  },
+  {
+    "name": "KFINTECH",
+    "entry": "2026-07-24",
+    "exit": "2026-07-28",
+    "entry_px": 868.0,
+    "exit_px": 973.75,
+    "pnl": 1449.29,
+    "return_pct": 11.62,
+    "reason": "time"
+  },
+  {
+    "name": "Home First",
+    "entry": "2026-07-27",
+    "exit": "2026-07-29",
+    "entry_px": 1191.6,
+    "exit_px": 1174.5,
+    "pnl": -240.31,
+    "return_pct": -1.93,
+    "reason": "time"
+  },
+  {
+    "name": "IDFC First Bank",
+    "entry": "2026-07-27",
+    "exit": "2026-07-29",
+    "entry_px": 86.3,
+    "exit_px": 85.02,
+    "pnl": -246.29,
+    "return_pct": -1.98,
+    "reason": "time"
+  },
+  {
+    "name": "RR Kabel",
+    "entry": "2026-07-27",
+    "exit": "2026-07-29",
+    "entry_px": 2529.0,
+    "exit_px": 2558.8999,
+    "pnl": 84.42,
+    "return_pct": 0.68,
+    "reason": "time"
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "entry": "2026-07-27",
+    "exit": "2026-07-29",
+    "entry_px": 1021.0,
+    "exit_px": 1042.3,
+    "pnl": 196.56,
+    "return_pct": 1.58,
+    "reason": "time"
+  },
+  {
+    "name": "Varun Beverages",
+    "entry": "2026-07-28",
+    "exit": "2026-07-30",
+    "entry_px": 464.7,
+    "exit_px": 451.35,
+    "pnl": -155.79,
+    "return_pct": -3.36,
+    "reason": "time"
+  },
+  {
+    "name": "Hindustan Unilever",
+    "entry": "2026-07-28",
+    "exit": "2026-07-30",
+    "entry_px": 2174.6001,
+    "exit_px": 2107.8999,
+    "pnl": -164.76,
+    "return_pct": -3.55,
+    "reason": "time"
+  },
+  {
+    "name": "L&T",
+    "entry": "2026-07-28",
+    "exit": "2026-07-30",
+    "entry_px": 3812.0,
+    "exit_px": 3937.7,
+    "pnl": 129.05,
+    "return_pct": 2.78,
+    "reason": "time"
+  },
+  {
+    "name": "Star Health",
+    "entry": "2026-07-29",
+    "exit": "2026-07-31",
+    "entry_px": 587.95,
+    "exit_px": 601.0,
+    "pnl": 216.73,
+    "return_pct": 1.71,
+    "reason": "time"
+  },
+  {
+    "name": "Syrma SGS",
+    "entry": "2026-07-29",
+    "exit": "2026-07-31",
+    "entry_px": 1319.9,
+    "exit_px": 1366.8,
+    "pnl": 385.02,
+    "return_pct": 3.04,
+    "reason": "time"
+  },
+  {
+    "name": "Mankind",
+    "entry": "2026-07-30",
+    "exit": "2026-08-03",
+    "entry_px": 2585.3,
+    "exit_px": 2483.0,
+    "pnl": -571.19,
+    "return_pct": -4.44,
+    "reason": "time"
+  },
+  {
+    "name": "CAMS",
+    "entry": "2026-08-03",
+    "exit": "2026-08-05",
+    "entry_px": 810.0,
+    "exit_px": 811.85,
+    "pnl": -34.52,
+    "return_pct": -0.27,
+    "reason": "time"
+  },
+  {
+    "name": "CDSL",
+    "entry": "2026-08-03",
+    "exit": "2026-08-05",
+    "entry_px": 1341.9,
+    "exit_px": 1326.5,
+    "pnl": -208.21,
+    "return_pct": -1.64,
+    "reason": "time"
+  },
+  {
+    "name": "Uno Minda",
+    "entry": "2026-08-04",
+    "exit": "2026-08-06",
+    "entry_px": 1218.5,
+    "exit_px": 1278.0,
+    "pnl": 552.22,
+    "return_pct": 4.36,
+    "reason": "time"
+  },
+  {
+    "name": "Bharti Airtel",
+    "entry": "2026-08-04",
+    "exit": "2026-08-06",
+    "entry_px": 1980.0,
+    "exit_px": 1948.0,
+    "pnl": -266.97,
+    "return_pct": -2.11,
+    "reason": "time"
+  },
+  {
+    "name": "ASK Auto",
+    "entry": "2026-08-04",
+    "exit": "2026-08-06",
+    "entry_px": 571.35,
+    "exit_px": 678.8,
+    "pnl": 2307.16,
+    "return_pct": 18.21,
+    "reason": "time"
+  },
+  {
+    "name": "Poly Medicure",
+    "entry": "2026-08-07",
+    "exit": "2026-08-11",
+    "entry_px": 1714.9,
+    "exit_px": 1863.9,
+    "pnl": 1071.63,
+    "return_pct": 8.15,
+    "reason": "time"
+  },
+  {
+    "name": "SKY Gold",
+    "entry": "2026-08-10",
+    "exit": "2026-08-12",
+    "entry_px": 775.0,
+    "exit_px": 833.1,
+    "pnl": 921.3,
+    "return_pct": 6.96,
+    "reason": "time"
+  },
+  {
+    "name": "Max Health",
+    "entry": "2026-08-13",
+    "exit": "2026-08-17",
+    "entry_px": 1007.9,
+    "exit_px": 1003.7,
+    "pnl": -123.89,
+    "return_pct": -0.91,
+    "reason": "time"
+  },
+  {
+    "name": "Aavas",
+    "entry": "2026-08-20",
+    "exit": "2026-08-24",
+    "entry_px": 1373.1,
+    "exit_px": 1336.3,
+    "pnl": -428.35,
+    "return_pct": -3.17,
+    "reason": "time"
+  }
+]
