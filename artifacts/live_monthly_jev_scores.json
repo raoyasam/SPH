@@ -1,0 +1,63 @@
+{
+  "generated_at_utc": "2026-09-27T16:18:23.613687+00:00",
+  "min_growth": 0.1,
+  "jev_model": "jev-latest",
+  "jev_thresholds": [
+    0.45,
+    0.5,
+    0.55
+  ],
+  "months": [
+    {
+      "signal_month": "2026-07",
+      "buy_for_month": "2026-08",
+      "eligible": [
+        {
+          "name": "SKY Gold",
+          "ticker": "SKYGOLD.NS",
+          "month_return_pct": 21.71,
+          "eligible": true
+        },
+        {
+          "name": "IT BEES",
+          "ticker": "ITBEES.NS",
+          "month_return_pct": 19.18,
+          "eligible": true
+        },
+        {
+          "name": "ASK Auto",
+          "ticker": "ASKAUTOLTD.NS",
+          "month_return_pct": 18.73,
+          "eligible": true
+        }
+      ]
+    },
+    {
+      "signal_month": "2026-08",
+      "buy_for_month": "2026-09",
+      "eligible": [
+        {
+          "name": "SKY Gold",
+          "ticker": "SKYGOLD.NS",
+          "month_return_pct": 16.66,
+          "eligible": true
+        },
+        {
+          "name": "ASK Auto",
+          "ticker": "ASKAUTOLTD.NS",
+          "month_return_pct": 15.84,
+          "eligible": true
+        },
+        {
+          "name": "RR Kabel",
+          "ticker": "RRKABEL.NS",
+          "month_return_pct": 11.27,
+          "eligible": true
+        }
+      ]
+    }
+  ],
+  "latest_buy_month": "2026-09",
+  "jev_scores": [],
+  "jev_error": "TYPESAFE_API_KEY missing. Add it to bot_secrets.env and re-run."
+}
