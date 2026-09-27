@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-27T16:18:23.613687+00:00",
+  "generated_at_utc": "2026-09-27T16:21:09.927735+00:00",
   "min_growth": 0.1,
   "jev_model": "jev-latest",
   "jev_thresholds": [
@@ -58,6 +58,40 @@
     }
   ],
   "latest_buy_month": "2026-09",
-  "jev_scores": [],
-  "jev_error": "TYPESAFE_API_KEY missing. Add it to bot_secrets.env and re-run."
+  "jev_scores": [
+    {
+      "name": "SKY Gold",
+      "ticker": "SKYGOLD.NS",
+      "month_return_pct": 16.66,
+      "eligible": true,
+      "jev_noul": 0.46,
+      "buy_ge_0.45": true,
+      "buy_ge_0.5": false,
+      "buy_ge_0.55": false,
+      "decision_default_0.55": "SKIP"
+    },
+    {
+      "name": "ASK Auto",
+      "ticker": "ASKAUTOLTD.NS",
+      "month_return_pct": 15.84,
+      "eligible": true,
+      "jev_noul": 0.5,
+      "buy_ge_0.45": true,
+      "buy_ge_0.5": true,
+      "buy_ge_0.55": false,
+      "decision_default_0.55": "SKIP"
+    },
+    {
+      "name": "RR Kabel",
+      "ticker": "RRKABEL.NS",
+      "month_return_pct": 11.27,
+      "eligible": true,
+      "jev_noul": 0.55,
+      "buy_ge_0.45": true,
+      "buy_ge_0.5": true,
+      "buy_ge_0.55": true,
+      "decision_default_0.55": "BUY"
+    }
+  ],
+  "jev_error": null
 }
