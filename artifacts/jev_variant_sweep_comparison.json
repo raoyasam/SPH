@@ -1,0 +1,130 @@
+{
+  "period": "2021-09-01 to 2026-09-01",
+  "initial_capital": 100000.0,
+  "jev_api_calls": 17,
+  "jev_cache_hits": 245,
+  "nifty50_total_return_pct": 41.02,
+  "nifty500_total_return_pct": 61.16,
+  "buy_and_hold": {
+    "mode": "buy_and_hold",
+    "final_value": 284211.32,
+    "total_return_pct": 184.21,
+    "cagr_pct": 23.24,
+    "max_drawdown_pct": null,
+    "months_traded": null,
+    "months_cash": null,
+    "avg_names": null
+  },
+  "variants_ranked_by_cagr": [
+    {
+      "mode": "rerank_top10_top5",
+      "final_value": 305159.71,
+      "total_return_pct": 205.16,
+      "cagr_pct": 25.0,
+      "max_drawdown_pct": 24.46,
+      "months_traded": 53,
+      "months_cash": 7,
+      "avg_names": 3.51
+    },
+    {
+      "mode": "rerank_top10_top3",
+      "final_value": 291456.2,
+      "total_return_pct": 191.46,
+      "cagr_pct": 23.86,
+      "max_drawdown_pct": 25.01,
+      "months_traded": 53,
+      "months_cash": 7,
+      "avg_names": 2.55
+    },
+    {
+      "mode": "weight_by_jev",
+      "final_value": 271892.56,
+      "total_return_pct": 171.89,
+      "cagr_pct": 22.15,
+      "max_drawdown_pct": 29.51,
+      "months_traded": 53,
+      "months_cash": 7,
+      "avg_names": 4.94
+    },
+    {
+      "mode": "no_jev_all",
+      "final_value": 269650.28,
+      "total_return_pct": 169.65,
+      "cagr_pct": 21.95,
+      "max_drawdown_pct": 31.13,
+      "months_traded": 53,
+      "months_cash": 7,
+      "avg_names": 4.94
+    },
+    {
+      "mode": "hybrid_veto035_weight",
+      "final_value": 253310.46,
+      "total_return_pct": 153.31,
+      "cagr_pct": 20.43,
+      "max_drawdown_pct": 29.26,
+      "months_traded": 53,
+      "months_cash": 7,
+      "avg_names": 4.89
+    },
+    {
+      "mode": "soft_veto_0.35",
+      "final_value": 246880.98,
+      "total_return_pct": 146.88,
+      "cagr_pct": 19.81,
+      "max_drawdown_pct": 30.82,
+      "months_traded": 53,
+      "months_cash": 7,
+      "avg_names": 4.89
+    },
+    {
+      "mode": "soft_veto_0.40",
+      "final_value": 241710.31,
+      "total_return_pct": 141.71,
+      "cagr_pct": 19.31,
+      "max_drawdown_pct": 30.6,
+      "months_traded": 53,
+      "months_cash": 7,
+      "avg_names": 4.77
+    },
+    {
+      "mode": "top5_no_jev",
+      "final_value": 230103.4,
+      "total_return_pct": 130.1,
+      "cagr_pct": 18.14,
+      "max_drawdown_pct": 42.92,
+      "months_traded": 53,
+      "months_cash": 7,
+      "avg_names": 3.51
+    },
+    {
+      "mode": "hard_filter_0.45",
+      "final_value": 209720.38,
+      "total_return_pct": 109.72,
+      "cagr_pct": 15.97,
+      "max_drawdown_pct": 25.73,
+      "months_traded": 51,
+      "months_cash": 9,
+      "avg_names": 4.37
+    },
+    {
+      "mode": "hard_filter_0.50",
+      "final_value": 168376.69,
+      "total_return_pct": 68.38,
+      "cagr_pct": 10.98,
+      "max_drawdown_pct": 22.25,
+      "months_traded": 45,
+      "months_cash": 15,
+      "avg_names": 3.2
+    },
+    {
+      "mode": "hard_filter_0.55",
+      "final_value": 95842.85,
+      "total_return_pct": -4.16,
+      "cagr_pct": -0.85,
+      "max_drawdown_pct": 11.6,
+      "months_traded": 12,
+      "months_cash": 48,
+      "avg_names": 1.17
+    }
+  ]
+}
