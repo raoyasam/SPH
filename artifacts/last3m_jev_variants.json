@@ -1,0 +1,282 @@
+{
+  "generated_at_utc": "2026-09-28T16:33:54.167327+00:00",
+  "months": [
+    {
+      "signal_month": "2026-06",
+      "buy_month": "2026-07",
+      "eligible": [
+        {
+          "name": "Rashi Peripherals",
+          "mom_pct": 39.28,
+          "jev": 0.39
+        },
+        {
+          "name": "Poly Medicure",
+          "mom_pct": 26.5,
+          "jev": 0.46
+        },
+        {
+          "name": "Syrma SGS",
+          "mom_pct": 26.1,
+          "jev": 0.46
+        },
+        {
+          "name": "Max Health",
+          "mom_pct": 20.33,
+          "jev": 0.47
+        },
+        {
+          "name": "RR Kabel",
+          "mom_pct": 18.11,
+          "jev": 0.48
+        },
+        {
+          "name": "Aavas",
+          "mom_pct": 14.83,
+          "jev": 0.52
+        },
+        {
+          "name": "Minda Corp",
+          "mom_pct": 12.61,
+          "jev": 0.52
+        },
+        {
+          "name": "IDFC First Bank",
+          "mom_pct": 11.56,
+          "jev": 0.54
+        },
+        {
+          "name": "Star Health",
+          "mom_pct": 10.51,
+          "jev": 0.52
+        }
+      ],
+      "variants": {
+        "no_jev_all": {
+          "names": [
+            "Rashi Peripherals",
+            "Poly Medicure",
+            "Syrma SGS",
+            "Max Health",
+            "RR Kabel",
+            "Aavas",
+            "Minda Corp",
+            "IDFC First Bank",
+            "Star Health"
+          ],
+          "month_return_pct": 0.37,
+          "partial_month": false
+        },
+        "rerank_top10_top5": {
+          "names": [
+            "IDFC First Bank",
+            "Aavas",
+            "Minda Corp",
+            "Star Health",
+            "RR Kabel"
+          ],
+          "month_return_pct": 0.75,
+          "partial_month": false
+        },
+        "rerank_top10_top3": {
+          "names": [
+            "IDFC First Bank",
+            "Aavas",
+            "Minda Corp"
+          ],
+          "month_return_pct": -1.6,
+          "partial_month": false
+        },
+        "weight_by_jev": {
+          "names": [
+            "Rashi Peripherals",
+            "Poly Medicure",
+            "Syrma SGS",
+            "Max Health",
+            "RR Kabel",
+            "Aavas",
+            "Minda Corp",
+            "IDFC First Bank",
+            "Star Health"
+          ],
+          "month_return_pct": 0.26,
+          "partial_month": false
+        },
+        "soft_veto_0.35": {
+          "names": [
+            "Rashi Peripherals",
+            "Poly Medicure",
+            "Syrma SGS",
+            "Max Health",
+            "RR Kabel",
+            "Aavas",
+            "Minda Corp",
+            "IDFC First Bank",
+            "Star Health"
+          ],
+          "month_return_pct": 0.37,
+          "partial_month": false
+        },
+        "hard_filter_0.50": {
+          "names": [
+            "Aavas",
+            "Minda Corp",
+            "IDFC First Bank",
+            "Star Health"
+          ],
+          "month_return_pct": -0.81,
+          "partial_month": false
+        }
+      }
+    },
+    {
+      "signal_month": "2026-07",
+      "buy_month": "2026-08",
+      "eligible": [
+        {
+          "name": "SKY Gold",
+          "mom_pct": 21.71,
+          "jev": 0.45
+        },
+        {
+          "name": "IT BEES",
+          "mom_pct": 19.18,
+          "jev": 0.48
+        },
+        {
+          "name": "ASK Auto",
+          "mom_pct": 18.73,
+          "jev": 0.49
+        }
+      ],
+      "variants": {
+        "no_jev_all": {
+          "names": [
+            "SKY Gold",
+            "IT BEES",
+            "ASK Auto"
+          ],
+          "month_return_pct": 12.92,
+          "partial_month": false
+        },
+        "rerank_top10_top5": {
+          "names": [
+            "ASK Auto",
+            "IT BEES",
+            "SKY Gold"
+          ],
+          "month_return_pct": 12.92,
+          "partial_month": false
+        },
+        "rerank_top10_top3": {
+          "names": [
+            "ASK Auto",
+            "IT BEES",
+            "SKY Gold"
+          ],
+          "month_return_pct": 12.92,
+          "partial_month": false
+        },
+        "weight_by_jev": {
+          "names": [
+            "SKY Gold",
+            "IT BEES",
+            "ASK Auto"
+          ],
+          "month_return_pct": 12.82,
+          "partial_month": false
+        },
+        "soft_veto_0.35": {
+          "names": [
+            "SKY Gold",
+            "IT BEES",
+            "ASK Auto"
+          ],
+          "month_return_pct": 12.92,
+          "partial_month": false
+        },
+        "hard_filter_0.50": {
+          "names": [],
+          "month_return_pct": null,
+          "partial_month": false
+        }
+      }
+    },
+    {
+      "signal_month": "2026-08",
+      "buy_month": "2026-09",
+      "eligible": [
+        {
+          "name": "SKY Gold",
+          "mom_pct": 16.66,
+          "jev": 0.47
+        },
+        {
+          "name": "ASK Auto",
+          "mom_pct": 15.84,
+          "jev": 0.49
+        },
+        {
+          "name": "RR Kabel",
+          "mom_pct": 11.27,
+          "jev": 0.55
+        }
+      ],
+      "variants": {
+        "no_jev_all": {
+          "names": [
+            "SKY Gold",
+            "ASK Auto",
+            "RR Kabel"
+          ],
+          "month_return_pct": -4.72,
+          "partial_month": true
+        },
+        "rerank_top10_top5": {
+          "names": [
+            "RR Kabel",
+            "ASK Auto",
+            "SKY Gold"
+          ],
+          "month_return_pct": -4.72,
+          "partial_month": true
+        },
+        "rerank_top10_top3": {
+          "names": [
+            "RR Kabel",
+            "ASK Auto",
+            "SKY Gold"
+          ],
+          "month_return_pct": -4.72,
+          "partial_month": true
+        },
+        "weight_by_jev": {
+          "names": [
+            "SKY Gold",
+            "ASK Auto",
+            "RR Kabel"
+          ],
+          "month_return_pct": -4.99,
+          "partial_month": true
+        },
+        "soft_veto_0.35": {
+          "names": [
+            "SKY Gold",
+            "ASK Auto",
+            "RR Kabel"
+          ],
+          "month_return_pct": -4.72,
+          "partial_month": true
+        },
+        "hard_filter_0.50": {
+          "names": [
+            "RR Kabel"
+          ],
+          "month_return_pct": -10.45,
+          "partial_month": true
+        }
+      }
+    }
+  ],
+  "api_new_calls": 0
+}
