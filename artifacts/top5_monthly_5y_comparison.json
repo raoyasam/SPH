@@ -1,0 +1,49 @@
+{
+  "period": "2021-09-01 to 2026-09-01",
+  "initial_capital": 100000.0,
+  "rules": {
+    "min_prior_month_return": 0.1,
+    "top_n": 5,
+    "stop": 0.1,
+    "cost_each_side": 0.0025,
+    "jev_threshold_filter": 0.5,
+    "jev_model": "jev-latest"
+  },
+  "top5_no_jev": {
+    "label": "Top5 momentum (no Jev)",
+    "final_value": 230103.4,
+    "total_return_pct": 130.1,
+    "cagr_pct": 18.14,
+    "months_traded": 53,
+    "months_cash": 7,
+    "avg_names": 3.51
+  },
+  "top5_jev_filter": {
+    "label": "Top5 then Jev filter (noul>=0.5)",
+    "final_value": 142769.86,
+    "total_return_pct": 42.77,
+    "cagr_pct": 7.38,
+    "months_traded": 40,
+    "months_cash": 20,
+    "avg_names": 1.9
+  },
+  "top5_jev_rerank": {
+    "label": "Top10 mom \u2192 Top5 by Jev",
+    "final_value": 305159.71,
+    "total_return_pct": 205.16,
+    "cagr_pct": 25.0,
+    "months_traded": 53,
+    "months_cash": 7,
+    "avg_names": 3.51
+  },
+  "buy_and_hold": {
+    "label": "Buy & Hold (equal weight)",
+    "final_value": 284211.32,
+    "total_return_pct": 184.21,
+    "cagr_pct": 23.24
+  },
+  "nifty50_total_return_pct": 41.02,
+  "nifty500_total_return_pct": 61.16,
+  "jev_api_calls": 245,
+  "jev_cache_hits": 186
+}

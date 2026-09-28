@@ -28,3 +28,4 @@ __pycache__/
 .cursor/
 .idea/
 *.swp
+artifacts/jev_top5_5y_cache.json
