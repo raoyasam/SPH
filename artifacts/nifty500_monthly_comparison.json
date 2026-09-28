@@ -1,0 +1,50 @@
+{
+  "universe": "Nifty 500 (current membership as of list download)",
+  "survivorship_bias_note": true,
+  "period": "2021-09-01 to 2026-09-01",
+  "tickers_listed": 501,
+  "tickers_with_data": 500,
+  "initial_capital": 100000.0,
+  "jev_api_calls": 597,
+  "jev_cache_hits": 0,
+  "nifty50_total_return_pct": 41.02,
+  "nifty500_total_return_pct": 61.16,
+  "variants_ranked_by_cagr": [
+    {
+      "mode": "top5_no_jev",
+      "final_value": 310104.98,
+      "total_return_pct": 210.1,
+      "cagr_pct": 25.41,
+      "max_drawdown_pct": 36.85,
+      "months_traded": 60,
+      "months_cash": 0,
+      "avg_names": 5.0
+    },
+    {
+      "mode": "no_jev_all",
+      "final_value": 266438.66,
+      "total_return_pct": 166.44,
+      "cagr_pct": 21.66,
+      "max_drawdown_pct": 14.65,
+      "months_traded": 60,
+      "months_cash": 0,
+      "avg_names": 77.42
+    },
+    {
+      "mode": "rerank_top10_top5",
+      "final_value": 211585.79,
+      "total_return_pct": 111.59,
+      "cagr_pct": 16.17,
+      "max_drawdown_pct": 32.05,
+      "months_traded": 60,
+      "months_cash": 0,
+      "avg_names": 5.0
+    }
+  ],
+  "compare_to_curated_list_5y": {
+    "note": "From prior sweep on hand-picked ~35 names, same period",
+    "rerank_top10_top5_cagr_pct": 25.0,
+    "no_jev_all_cagr_pct": 21.95,
+    "top5_no_jev_cagr_pct": 18.14
+  }
+}

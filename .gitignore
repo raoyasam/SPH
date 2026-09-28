@@ -29,3 +29,4 @@ __pycache__/
 .idea/
 *.swp
 artifacts/jev_top5_5y_cache.json
+artifacts/jev_nifty500_cache.json
